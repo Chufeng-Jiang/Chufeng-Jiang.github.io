@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chufeng Jiang"
-description              : "I am a Software Engineer on a fortunate streak. "
+description              : "\"I am a Software Engineer on a fortunate streak.\" "
 repository               : "Chufeng-Jiang/Chufeng-Jiang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chufeng Jiang"
   avatar           : "images/chufeng.jpg"
-  bio1             : "Incoming CS PhD Student @ CUNY'2028"
-  bio2             : "MSCS @ UT Austin'2025"
-  bio3             : "BEng in CS @ Nankai'2023"
+  bio1             : "Incoming CS PhD Student @ CUNY '2028"
+  bio2             : "MSCS @ UT Austin '2025"
+  bio3             : "BEng in CS @ Nankai '2023"
   location         : "New York, USA"
   employer         : #
   pubmed           : 
