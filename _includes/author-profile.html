@@ -26,7 +26,7 @@
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons" style="list-style-type: none; padding-left: 0;">
       {% if author.location %}
-        <li style="margin-bottom: 4px; padding-left: 0px;"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li style="margin-bottom: 6px; padding-left: 0px;"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.linkedin %}
         <li style="margin-bottom: 0px; padding-left: 0px;"><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
@@ -127,7 +127,7 @@
         <!--<li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>-->
         <li style="margin-bottom: 0px; padding-left: 0px;">
 			<a href="https://mp.weixin.qq.com/s/{{ author.weixin }}">
-				<img src="../images/wechat.png" alt="\ " style="width: 18px; height: 18px; vertical-align: middle;" aria-hidden="true">
+				<img src="../images/wechat.png" alt="\ " style="width: 16px; height: 16px; vertical-align: middle;" aria-hidden="true">
 				WeChat Subscription
 			</a>
 		</li style="margin-bottom: 0px; padding-left: 0px;">
