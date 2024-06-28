@@ -1,6 +1,6 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2024.06*: 🎉 One paper *"Mixup-CLIPood: Robust Domain Generalization for Multi-modal Object Recognition"* is accepted by the 5th International Conference on Artificial Intelligence and Electromechanical Automation.
+
+- *2024.03*: 🎉 One paper *"Large language models for forecasting and anomaly detection: A systematic literature review"* is submitted to arxiv: [https://arxiv.org/abs/2402.10350](https://arxiv.org/abs/2402.10350).
+
+  

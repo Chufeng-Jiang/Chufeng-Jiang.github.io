@@ -1,19 +1,21 @@
 
 # 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
+【Computer Science】
+- *2024.09 - 2029.06* <span style="color:red;">*(Expected)*</span>, Doctor of Philosophy in Computer Science, *The City University of New York*.
+- *2024.01 - 2026.06* <span style="color:red;">*(Expected)*</span>, Master of Science in Computer Science, *University of Texas at Austin*.
+- *2020.09 - 2023.06*, Bachelor of Engineering in Computer Science and Technology, Nankai University.
+- *2021.09 - 2022.09*, Master of Science in Computer Science, *University of Birmingham (Dubai).  <span style="color:gray;">(Bridge Program)</span>*
+
+【Business】
+- *2023.09 - 2024.08* Master of Business Administration, *San Francisco Bay University*.
+- *2014.12 - 2019.09*, Bachelor of Science in Applied Accounting, *Oxford Brookes University*.
+- *2013.09 - 2017.06*, Bachelor of Management in Accounting *(ACCA)*,  *Hunan University*.
 
 # 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
+- *2024.05*, Meet with external Review Team from Ministry of Education/Commission for Academic Accreditation (CAA) in Dubai, *University of Birmingham*
 
-# 💻 Internships
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou.
+# 💻 Work Experience and Internships
+- *2022.09 - 2023.05*, **Back-end Software Developer**, [*Sunset Oasis Information Consultant Center*](https://www.linkedin.com/company/96330400/admin/dashboard/),  Changsha, China.
+- *2018.12 - 2020.09*, **Assistant Finance Manager**, [*China Civil Engineering Construction Corporation Nigeria Limited*](http://www.ccecc.com.cn/col/col7669/index.html), Abeokuta, Nigeria.
+- *2017.10 - 2017.12*, **Financial Accountant**, *[China Railway Construction Engineering Group: CRJE (EAST AFRICA) LTD](http://ydyl.cacem.com.cn/photos/EB5F603D_15509C5D.pdf)*, Nairobi, Kenya.
+- *2017.08 - 2017.10*, **Accountant**, [*China National Chemical Communications Construction Group Co., LTD*](http://zhxjj.com.cn/index.php/page/index/id/124.html), Addis Ababa, Ethiopia.
