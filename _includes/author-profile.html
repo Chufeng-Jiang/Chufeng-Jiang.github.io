@@ -7,32 +7,29 @@
   <div class="author__avatar">
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
 	{% if site.description %}
-        <li style="list-style-type: none;white-space: normal; margin-bottom: 1em; text-align: center; font-style: italic; font-size: 12px;"><div >{{ site.description }}</div></li>
+        <li style="list-style-type: none;white-space: normal; margin-bottom: 1em; text-align: center; font-style: italic; font-size: 12px;">
+			<div >{{ site.description }}</div>
+		</li>
     {% endif %}
   </div>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
 	<ul style="list-style-type: none; padding-left: 0; margin-left: 0;">
-	<li><i aria-hidden="true"></i> {{ author.bio1  }}</li>
-	<li><i aria-hidden="true"></i> {{ author.bio2  }}</li>
-	<li><i aria-hidden="true"></i> {{ author.bio3  }}</li>
-    <!-- {% if author.bio1 %}<p class="author__bio">{{ author.bio1 }}</p>{% endif %}
-	{% if author.bio2 %}<p class="author__bio">{{ author.bio2 }}</p>{% endif %} -->
+	<li style="margin-bottom: 0px; padding-left: 0px;"><i aria-hidden="true"></i> {{ author.bio1  }}</li>
+	<li style="margin-bottom: 0px; padding-left: 0px;"><i aria-hidden="true"></i> {{ author.bio2  }}</li>
+	<li style="margin-bottom: 0px; padding-left: 0px;"><i aria-hidden="true"></i> {{ author.bio3  }}</li>
 	</ul>
   </div>
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons" style="list-style-type: none; padding-left: 0;">
-      {% if site.description %}
-        <!-- <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li> -->
-      {% endif %}
       {% if author.location %}
         <li style="margin-bottom: 0px; padding-left: 0px;"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.linkedin %}
-        <li style="margin-bottom: 10px; padding-left: 0px;"><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        <li style="margin-bottom: 0px; padding-left: 0px;"><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
       {% if author.googlescholar %}
         <li style="margin-bottom: 0px; padding-left: 0px;"><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
@@ -130,7 +127,7 @@
         <!--<li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>-->
         <li>
 			<a href="https://mp.weixin.qq.com/s/{{ author.weixin }}">
-				<img src="../images/weixin.png" alt="WeChat" style="width: 10px; height: 10px; vertical-align: middle;" aria-hidden="true">
+				<img src="../images/wechat.png" alt="\ " style="width: 10px; height: 10px; vertical-align: middle;" aria-hidden="true">
 				WeChat Subscription
 			</a>
 		</li>
