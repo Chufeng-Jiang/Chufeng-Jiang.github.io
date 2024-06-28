@@ -10,9 +10,10 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-	<ul class="no-bullets">
+	<ul style="list-style-type: none; padding-left: 0; margin-left: 0;">
 	<li><i aria-hidden="true"></i> {{ author.bio1  }}</li>
 	<li><i aria-hidden="true"></i> {{ author.bio2  }}</li>
+	<li><i aria-hidden="true"></i> {{ author.bio3  }}</li>
     <!-- {% if author.bio1 %}<p class="author__bio">{{ author.bio1 }}</p>{% endif %}
 	{% if author.bio2 %}<p class="author__bio">{{ author.bio2 }}</p>{% endif %} -->
 	</ul>
@@ -122,9 +123,9 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
-      {% if author.weibo %}
+      {% if author.weixin %}
         <!--<li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>-->
-        <li><a href="https://mp.weixin.qq.com/s/{{ author.weibo }}"><i aria-hidden="true"></i> WeChat Subscription</a></li>
+        <li><a href="https://mp.weixin.qq.com/s/{{ author.weixin }}"><i aria-hidden="true"></i> WeChat Subscription</a></li>
         <li><img src="../images/subscription.png" class="paper-box-image" alt="Life Itself" style="width: 40%; height: auto;"></li>
       {% endif %}
     </ul>
@@ -195,9 +196,9 @@
       {% if author.soundcloud %}
         <a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud" aria-hidden="true"></i></a>
       {% endif %}
-      {% if author.weibo %}
+      {% if author.weixin %}
         <!--<a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i></a>-->
-        <li><a href="https://mp.weixin.qq.com/s/{{ author.weibo }}"><i aria-hidden="true"></i> WeChat Subscription</a></li>
+        <li><a href="https://mp.weixin.qq.com/s/{{ author.weixin }}"><i src="../images/weixin.png" alt="WeChat" style="width: 8px; height: 8px; vertical-align: middle;" aria-hidden="true"></i> WeChat Subscription</a></li>
         <li><img src="../images/subscription.png" class="paper-box-image" alt="Life Itself" style="width: 20%; height: auto;"></li>
       {% endif %}
       {% if author.flickr %}
