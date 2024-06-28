@@ -23,8 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chufeng Jiang"
   avatar           : "images/chufeng.jpg"
-  bio              : "CS PhD Student"
-  location         : "City University of New York, NY, USA"
+  bio1             : "Incoming CS PhD Student @ CUNY"
+  bio2             : "MSCS @ UT Austin"
+  location         : "New York, USA"
   employer         : #
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6i-r0JIAAAAJ&hl=en&oi=ao"
