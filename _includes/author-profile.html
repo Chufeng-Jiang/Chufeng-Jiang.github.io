@@ -10,27 +10,31 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio1 %}<p class="author__bio">{{ author.bio1 }}</p>{% endif %}
-	{% if author.bio2 %}<p class="author__bio">{{ author.bio2 }}</p>{% endif %}
+	<ul class="no-bullets">
+	<li><i aria-hidden="true"></i> {{ author.bio1  }}</li>
+	<li><i aria-hidden="true"></i> {{ author.bio2  }}</li>
+    <!-- {% if author.bio1 %}<p class="author__bio">{{ author.bio1 }}</p>{% endif %}
+	{% if author.bio2 %}<p class="author__bio">{{ author.bio2 }}</p>{% endif %} -->
+	</ul>
   </div>
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
-    <ul class="author__urls social-icons">
+    <ul class="author__urls social-icons" style="list-style-type: none; padding-left: 0;">
       {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li style="margin-bottom: 10px; padding-left: 20px;"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        <li style="margin-bottom: 10px; padding-left: 20px;"><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+        <li style="margin-bottom: 10px; padding-left: 20px;"><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+        <li style="margin-bottom: 10px; padding-left: 20px;"><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
