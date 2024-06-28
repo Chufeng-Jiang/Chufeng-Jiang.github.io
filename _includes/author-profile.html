@@ -7,7 +7,7 @@
   <div class="author__avatar">
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
 	{% if site.description %}
-        <li><div style="list-style-type: none;white-space: normal; margin-bottom: 1em; text-align: center; font-style: italic; font-size: 12px;">{{ site.description }}</div></li>
+        <li style="list-style-type: none;white-space: normal; margin-bottom: 1em; text-align: center; font-style: italic; font-size: 12px;"><div >{{ site.description }}</div></li>
     {% endif %}
   </div>
 
@@ -29,16 +29,16 @@
         <!-- <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li> -->
       {% endif %}
       {% if author.location %}
-        <li style="margin-bottom: 10px; padding-left: 20px;"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li style="margin-bottom: 0px; padding-left: 0px;"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.linkedin %}
-        <li style="margin-bottom: 10px; padding-left: 20px;"><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        <li style="margin-bottom: 10px; padding-left: 0px;"><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li style="margin-bottom: 10px; padding-left: 20px;"><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+        <li style="margin-bottom: 0px; padding-left: 0px;"><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.github %}
-        <li style="margin-bottom: 10px; padding-left: 20px;"><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+        <li style="margin-bottom: 0px; padding-left: 0px;"><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
@@ -128,7 +128,12 @@
       {% endif %}
       {% if author.weixin %}
         <!--<li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>-->
-        <li><a href="https://mp.weixin.qq.com/s/{{ author.weixin }}"><i src="../images/weixin.png" alt="WeChat" style="width: 10px; height: 10px; vertical-align: middle;" aria-hidden="true"></i> WeChat Subscription</a></li>
+        <li>
+			<a href="https://mp.weixin.qq.com/s/{{ author.weixin }}">
+				<img src="../images/weixin.png" alt="WeChat" style="width: 10px; height: 10px; vertical-align: middle;" aria-hidden="true">
+				WeChat Subscription
+			</a>
+		</li>
         <li><img src="../images/subscription.png" class="paper-box-image" alt="Life Itself" style="width: 40%; height: auto;"></li>
       {% endif %}
     </ul>
