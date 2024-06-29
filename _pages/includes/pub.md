@@ -7,7 +7,7 @@
 			<img src='../../images/AIEA2024.png' alt="sym" width="100%">
 		</div>
 	</div>
-<div class='paper-box-text' markdown="1">
+	<div class='paper-box-text' markdown="1">
 
 [Mixup-CLIPood: Robust Domain Generalization for Multi-modal Object Recognition](https://github.com/Yuxin_Qiao/NewCLIPood) \\
 Yuxin Qiao, Keqin Li, Junhong Lin, Rong Wei, **Chufeng Jiang**, Yang Luo, Haoyu Yang.
@@ -16,21 +16,22 @@ Yuxin Qiao, Keqin Li, Junhong Lin, Rong Wei, **Chufeng Jiang**, Yang Luo, Haoyu 
 
   - We address the incongruity between the actual loss and the one documented in the paper. Through a meticulous analysis of implementations, we deduce the actual loss and compare it with the documented loss.
   - We expand our experiments to encompass two larger vision-language backbones. This comprehensive evaluation provides a more robust assessment of the method's performance.
-  - We propose Mixup-CLIPood with a novel mix-up loss to enhance the previous model's generalization ability by incorporating class-aware visual information during training.
+  - We propose Mixup-CLIPood with a novel mix-up loss to enhance the previous model's generalization ability by incorporating class-aware visual information during training. 
 
 </div>
+
 </div>
 
 <div class='paper-box'>
 	<div class='paper-box-image'>
 		<div>
 			<div class="badge">Arxiv 2024</div>
-			<img src='../../images/llmrv.png' alt="sym" width="100%">
+			<img src='../../images/llmrv.png' alt="sym" width="60%">
 		</div>
 	</div>
-<div class='paper-box-text' markdown="1">
+	<div class='paper-box-text' markdown="1">
 
-[Large language models for forecasting and anomaly detection: A systematic literature review](https://arxiv.org/abs/2402.10350) \\
+[Large language models for forecasting and anomaly detection: A systematic literature review](https://arxiv.org/abs/2402.10350)  \\
 Jing Su, **Chufeng Jiang**, Xin Jin, Yuxin Qiao, Tingsong Xiao, Hongda Ma, Rong Wei, Zhi Jing, Jiajun Xu, Junhong Lin
 
 [**Research Questions**](https://arxiv.org/abs/2402.10350) <strong></strong>
@@ -46,5 +47,10 @@ Jing Su, **Chufeng Jiang**, Xin Jin, Yuxin Qiao, Tingsong Xiao, Hongda Ma, Rong 
 
 - **Academic Impact**: This paper is selected to present in a Collaborative Study and Research Group on Related Literature [时序时空大模型读书会启动：大模型开启时序时空数据挖掘新视角](https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=2247686949&idx=1&sn=7ac5abf22610981adf2404a7e687542d&chksm=e9174944e3bc883a8b1e14392e05e90ba75b9023d4237f594b139d1643aa3928c6191fe2dc24&scene=27).
   
+
+</div>
+
+</div>
+
 ## 
 
