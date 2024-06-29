@@ -3,8 +3,8 @@
 【Computer Science】
 - *2024.09 - 2029.06* <span style="color:red;">*(Expected)*</span>, Doctor of Philosophy in Computer Science, *The City University of New York*.
 - *2024.01 - 2026.06* <span style="color:red;">*(Expected)*</span>, Master of Science in Computer Science, *University of Texas at Austin*.
-- *2020.09 - 2023.06 Bachelor of Engineering in Computer Science and Technology, *Nankai University*.
-- *2021.09 - 2022.09 Master of Science in Computer Science, *University of Birmingham (Dubai).  <span style="color:gray;">(Bridge Program)</span>*
+- *2020.09 - 2023.06* Bachelor of Engineering in Computer Science and Technology, *Nankai University*.
+- *2021.09 - 2022.09* Master of Science in Computer Science, *University of Birmingham (Dubai).  <span style="color:gray;">(Bridge Program)</span>*
 
 【Business】
 - *2023.09 - 2024.08* Master of Business Administration, *San Francisco Bay University*.
@@ -12,7 +12,7 @@
 - *2013.09 - 2017.06* Bachelor of Management in Accounting *(ACCA)*,  *Hunan University*.
 
 # 💬 Invited Talks
-- *2024.05*, Meet with external Review Team from Ministry of Education/Commission for Academic Accreditation (CAA) in Dubai, *University of Birmingham*
+- *2024.05*, Meet with external Review Team from Ministry of Education/Commission for Academic Accreditation (CAA) in Dubai, *University of Birmingham Dubai*.
 
 # 💻 Work Experience and Internships
 - *2022.09 - 2023.05* **Back-end Software Developer**, [*Sunset Oasis Information Consultant Center*](https://www.linkedin.com/company/96330400/admin/dashboard/),  Changsha, China.
