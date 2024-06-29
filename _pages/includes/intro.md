@@ -20,4 +20,4 @@ I received my Second Bachelor of Engineering in Computer Science and Technology 
 
 In addition, I am awarded an MBA degree in 2024 from *San Francisco Bay University*, and completed my Bachelor of Management in Accounting (ACCA) in 2017 from *Hunan University*, along with a Bachelor of Science in Applied Accounting in 2019 from *Oxford Brookes University*. 
 
-During 2017.07 - 2020.10, I worked for several ***<span style="color:rgb(0,100,0);"><u>China Foreign Infrastructure Aid Projects</u></span>*** in  Africa, including the construction of Railways, Airports, Hospitals, and other facilities. 
+During 2017.07 - 2020.10, I worked for different ***<span style="color:rgb(0,100,0);"><u>China Foreign Infrastructure Aid Projects</u></span>*** in  Africa, including the construction of Railways, Airports, Hospitals, and other facilities. 
