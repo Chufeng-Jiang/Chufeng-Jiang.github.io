@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chufeng (Beza) Jiang"
+title                    : "Chufeng Jiang"
 description              : "\"I am always on a lucky streak.\" "
 repository               : "Chufeng-Jiang/Chufeng-Jiang.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chufeng Jiang"
+  name             : "Chufeng (Beza) Jiang"
   avatar           : "images/chufeng.jpg"
   bio1             : "Incoming CS PhD Student @ CUNY '2029"
   bio2             : "MSCS @ UT Austin '2026"

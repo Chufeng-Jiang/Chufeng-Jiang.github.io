@@ -1,6 +1,4 @@
-My name is <span style="color:#4169E1;">Chu</span><span style="color:#FF7F50;">feng</span>  <span style="color:black;">Jiang</span> (<span style="color:black;">蒋 </span><span style="color:#4169E1;">楚</span><span style="color:#FF7F50;">枫</span>), the pronunciation is [<span style="color:#4169E1;">tʃu:</span> <span style="color:#FF7F50;">fɛŋ </span><span style="color:black;">dʒɑːn</span>]. 
-
-You may just call me "Beza", the pronunciation is [beɪ za], an Ethiopian name given by my colleagues meaning "Good Luck" and "The Gift From the God". I love this name so much because I am always on a lucky streak!
+My name is Chufeng  <span style="color:black;">Jiang</span> (蒋楚枫), the pronunciation is [tʃu:fɛŋ]-[dʒɑːn]. You may just call me "Beza", the pronunciation is [beɪ za], an Ethiopian name given by my colleagues meaning "*Good Luck*" and "*The Gift From the God*". I love this name so much because I am always on a lucky streak!
 
 <span style="color:rgb(112,128,144);">**----------------------**</span>
 
@@ -12,11 +10,9 @@ My research interests lie in:
     <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">2. Programming Language;</li>
     <li style="list-style-type: none; margin-bottom: 10px; padding-left: 25%; font-weight: bold;">3. Machine Learning System.</li>
 </div>
-
-
 I am particularly interested in how automated refactoring and program analysis might lessen the load of correctly, quickly, and safely evolving large and complicated software; and how to enhance and facilitate the long-term evolution of Machine Learning systems utilizing Software Engineering approaches. I have published 10+ papers at different international journals and conferences with total <a href='https://scholar.google.com/citations?user=6i-r0JIAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
-I am actively seeking a<span style="color:rgb(255,0,0);"> *2025 Summer Software Engineering Internship*</span>, or <span style="color:rgb(255,0,0);">*Summer Laboratory Research Internship*</span>. Kindly please feel free to connect with me if anything interests you or discuss something else. <a><img src="../../images/hello.png" alt=" " width="30"/></a>
+I am actively seeking a<span style="color:rgb(255,0,0);"> *2025 Summer Software Engineering Internship*</span>, or <span style="color:rgb(255,0,0);">*Summer Laboratory Research Internship*</span>. Kindly please feel free to connect with me if anything interests you or discuss something else. <a><img src="../../images/hello.png" alt=" " width="20"/></a>
 
 <span style="color:rgb(112,128,144);">**----------------------**</span>
 
@@ -25,5 +21,3 @@ I received my Second Bachelor of Engineering in Computer Science and Technology 
 In addition, I am awarded an MBA degree in 2024 from *San Francisco Bay University*, and completed my Bachelor of Management in Accounting (ACCA) in 2017 from *Hunan University*, along with a Bachelor of Science in Applied Accounting in 2019 from *Oxford Brookes University*. 
 
 During 2017.07 - 2020.10, I worked for several ***<span style="color:rgb(0,100,0);"><u>China Foreign Infrastructure Aid Projects</u></span>*** in  Africa, including the construction of Railways, Airports, Hospitals, and other facilities. 
-
-<span style="color:rgb(112,128,144);">**----------------------**</span>
