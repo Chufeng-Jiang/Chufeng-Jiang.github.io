@@ -8,7 +8,6 @@
 		</div>
 	</div>
 	<div class='paper-box-text' markdown="1">
-
 [Mixup-CLIPood: Robust Domain Generalization for Multi-modal Object Recognition](https://github.com/Yuxin_Qiao/NewCLIPood) \\
 Yuxin Qiao, Keqin Li, Junhong Lin, Rong Wei, **<u>Chufeng Jiang</u>**, Yang Luo, Haoyu Yang.
 
