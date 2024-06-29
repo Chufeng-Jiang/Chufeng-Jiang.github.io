@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chufeng Jiang"
   avatar           : "images/chufeng.jpg"
-  bio1             : "Incoming PhD Student in CS @ CUNY '2028"
-  bio2             : "MSCS @ UT Austin '2025"
+  bio1             : "Incoming CS PhD Student @ CUNY '2029"
+  bio2             : "MSCS @ UT Austin '2026"
   bio3             : "cjiang@gradcenter.cuny.edu"#"BEng in CS @ Nankai '2023"
   location         : "New York, USA"
   employer         : #
