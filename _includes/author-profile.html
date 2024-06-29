@@ -2,19 +2,6 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-        var descriptionDiv = document.getElementById("description");
-        var descriptionText = descriptionDiv.innerText || descriptionDiv.textContent;
-
-        // Regex to check for Chinese characters
-        var chineseRegex = /[\u4e00-\u9fa5]/;
-
-        if (chineseRegex.test(descriptionText)) {
-            descriptionDiv.style.fontFamily = "SimSun, serif"; // SimSun is a common Chinese font
-        }
-    });
-</script>
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
