@@ -2,12 +2,26 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var descriptionDiv = document.getElementById("description");
+        var descriptionText = descriptionDiv.innerText || descriptionDiv.textContent;
+
+        // Regex to check for Chinese characters
+        var chineseRegex = /[\u4e00-\u9fa5]/;
+
+        if (chineseRegex.test(descriptionText)) {
+            descriptionDiv.style.fontFamily = "SimSun, serif"; // SimSun is a common Chinese font
+        }
+    });
+</script>
+
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
 	{% if site.description %}
-        <li style="list-style-type: none;white-space: normal; margin-bottom: 1em; text-align: center; font-style: italic; font-size: 12px;">
+        <li style="font-family: Century Schoolbook;list-style-type: none;white-space: normal; margin-bottom: 1em; text-align: center; font-style: italic; font-size: 12px;">
 			<div >{{ site.description }}</div>
 		</li>
     {% endif %}

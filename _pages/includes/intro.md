@@ -1,6 +1,6 @@
-My name is Chufeng Jiang(蒋楚枫), the pronunciation is [tʃu:fɛŋ]-[dʒɑːn]. You may just call me "Beza", the pronunciation is [beɪ za], an Ethiopian name given by my colleagues meaning *"Good Luck"* and *"The Gift From the God"*. I love this name so much because I am always on a lucky streak!
+My name is <span style="font-family: Century Schoolbook;color:rgb(112,128,144);">Chufeng Jiang</span> <span style="font-family: SimSun;">(蒋楚枫)</span>, the pronunciation is <span style="font-family: Century Schoolbook;color:rgb(112,128,144);">[tʃu:fɛŋ]-[dʒɑːn]</span>. You may just call me <span style="font-family: Century Schoolbook;color:rgb(112,128,144);">"Beza"</span>, the pronunciation is <span style="font-family: Century Schoolbook;color:rgb(112,128,144);">[beɪ za]</span>, an Ethiopian name given by my colleagues meaning <span style="font-family: Century Schoolbook; color:rgb(112,128,144);">*"good luck*</span> and <span style="font-family: Century Schoolbook; color:rgb(112,128,144);">*"the gift from the God"*</span>. I love this name so much because I am always on a lucky streak!
 
-<div style="text-align: center; color:rgb(112,128,144);">   --------------------------------------- </div>
+<div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>
 
 I am an incoming PhD student in the Computer Science Program at **[The City University of New York](https://www.gc.cuny.edu/computer-science)**, where I will be advised by [Dr. Raffi Khatchadourian](https://khatchad.commons.gc.cuny.edu/). Currently, I am pursuing an MS in Computer Science at *The University of Texas at Austin*.
 
@@ -14,7 +14,7 @@ I am particularly interested in how automated refactoring and program analysis m
 
 I am actively seeking a<span style="color:rgb(255,0,0);"> *2025 Summer Software Engineering Internship*</span>, or <span style="color:rgb(255,0,0);">*Summer Laboratory Research Internship*</span>. Kindly please feel free to connect with me if anything interests you or we may discuss something else. <a><img src="../../images/hello.png" alt=" " width="20"/></a>
 
-<div style="text-align: center; color:rgb(112,128,144);">   --------------------------------------- </div>
+<div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>
 
 I received my Second Bachelor of Engineering in Computer Science and Technology in 2023 from *Nankai University*, advised by [Dr. Haiwei Zhang](https://dbis.nankai.edu.cn/2023/0322/c12139a506916/page.htm). I obtained my Master of Science in Computer Science (Bridge Program) in 2022 from *University of Birmingham Dubai*, co-advised by [Dr. Mian M. Hamayun](https://www.birmingham.ac.uk/staff/profiles/dubai/hamayun-mian) and [Dr. Ahmad Ibrahim](https://www.cs.bham.ac.uk/~ibrahima/).
 
