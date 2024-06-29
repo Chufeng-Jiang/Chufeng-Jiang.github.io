@@ -1,4 +1,16 @@
 <script src="assets/js/main.min.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var descriptionDiv = document.getElementById("description");
+        if (descriptionDiv) {
+            var descriptionText = descriptionDiv.innerText || descriptionDiv.textContent;
+            var chineseRegex = /[\u4e00-\u9fa5]/;
+            if (chineseRegex.test(descriptionText)) {
+                descriptionDiv.style.fontFamily = "SimSun, serif"; // SimSun 是常见的中文字体
+            }
+        }
+    });
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
