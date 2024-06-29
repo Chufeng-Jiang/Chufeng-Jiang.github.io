@@ -1,4 +1,4 @@
-# 💫Moments
+# 💫 Moments
 
 - 【2024.06.06】 Our paper "*Mixup-CLIPood: Robust Domain Generalization for Multi-modal Object Recognition*" is accepted by 5th [AIEA 2024](http://www.icaiea.com/)!
 - 【2024.04.15】 My financial aid has been revised to the Graduate Center Fellowship! Thank you to the Graduate Center of CUNY! I am honored to receive this award and will work hard with Dr. Raffi on our research while striving to deliver excellent teaching to the undergraduates in the future.💪

@@ -14,7 +14,7 @@
 # 💬 Invited Talks
 - *2024.05*, Meet with external Review Team from Ministry of Education/Commission for Academic Accreditation (CAA) in Dubai, *University of Birmingham Dubai*.
 
-# 💻 Work Experience and Internships
+# 💻 Work Experience
 - *2022.09 - 2023.05*, **Back-end Software Developer**, [*Sunset Oasis Information Consultant Center*](https://www.linkedin.com/company/96330400/admin/dashboard/),  Changsha, China.
 - *2017.12 - 2020.09*, **Assistant Finance Manager**, [*China Civil Engineering Construction Corporation Nigeria Limited*](http://www.ccecc.com.cn/col/col7669/index.html), Abeokuta, Nigeria.
 - *2017.10 - 2017.12*, **Financial Accountant**, *[China Railway Construction Engineering Group: CRJE (EAST AFRICA) LTD](http://ydyl.cacem.com.cn/photos/EB5F603D_15509C5D.pdf)*, Nairobi, Kenya.
