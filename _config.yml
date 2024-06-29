@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chufeng (Beza) Jiang"
+  name             : #"Chufeng (Beza) Jiang"
   avatar           : "images/chufeng.jpg"
   bio0             : "Chufeng (Beza) Jiang"
   bio1             : "Incoming CS PhD Student @ CUNY '2029"
@@ -56,7 +56,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weixin            : "rOzzoN_it4JasdyWiKFBlg"
+  weixin           : #"rOzzoN_it4JasdyWiKFBlg"
   xing             :
   youtube          :
   wikipedia        :
