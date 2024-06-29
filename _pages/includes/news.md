@@ -1,4 +1,4 @@
-# 🔥 News
+# <a href="https://camo.githubusercontent.com/a8049f002e5865e5dc0401b5cf3be6b6a2f92ffe0f93d88ab02b4f3f06495e77/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f616e696d617465642d6e6f746f2d636f6c6f722d656d6f6a692f3335362f7061727479696e672d666163655f31663937332e676966">     <img src="https://camo.githubusercontent.com/a8049f002e5865e5dc0401b5cf3be6b6a2f92ffe0f93d88ab02b4f3f06495e77/68747470733a2f2f656d2d636f6e74656e742e7a6f626a2e6e65742f736f757263652f616e696d617465642d6e6f746f2d636f6c6f722d656d6f6a692f3335362f7061727479696e672d666163655f31663937332e676966" width="70" alt="img"></a> News
 - *2024.06*: 🎉 One paper *"Mixup-CLIPood: Robust Domain Generalization for Multi-modal Object Recognition"* is accepted by the 5th International Conference on Artificial Intelligence and Electromechanical Automation.
 
 - *2024.03*: 🎉 One paper *"Large language models for forecasting and anomaly detection: A systematic literature review"* is submitted to arxiv: [https://arxiv.org/abs/2402.10350](https://arxiv.org/abs/2402.10350).
