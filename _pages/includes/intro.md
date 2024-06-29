@@ -1,4 +1,4 @@
-My name is Chufeng  <span style="color:black;">Jiang</span> (蒋楚枫), the pronunciation is [tʃu:fɛŋ]-[dʒɑːn]. You may just call me "Beza", the pronunciation is [beɪ za], an Ethiopian name given by my colleagues meaning "*Good Luck*" and "*The Gift From the God*". I love this name so much because I am always on a lucky streak!
+My name is Chufeng Jiang(蒋楚枫), the pronunciation is [tʃu:fɛŋ]-[dʒɑːn]. You may just call me "Beza", the pronunciation is [beɪ za], an Ethiopian name given by my colleagues meaning "*Good Luck*" and "*The Gift From the God*". I love this name so much because I am always on a lucky streak!
 
 <span style="color:rgb(112,128,144);">**----------------------**</span>
 
@@ -12,7 +12,7 @@ My research interests lie in:
 </div>
 I am particularly interested in how automated refactoring and program analysis might lessen the load of correctly, quickly, and safely evolving large and complicated software; and how to enhance and facilitate the long-term evolution of Machine Learning systems utilizing Software Engineering approaches. I have published 10+ papers at different international journals and conferences with total <a href='https://scholar.google.com/citations?user=6i-r0JIAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
-I am actively seeking a<span style="color:rgb(255,0,0);"> *2025 Summer Software Engineering Internship*</span>, or <span style="color:rgb(255,0,0);">*Summer Laboratory Research Internship*</span>. Kindly please feel free to connect with me if anything interests you or discuss something else. <a><img src="../../images/hello.png" alt=" " width="20"/></a>
+I am actively seeking a<span style="color:rgb(255,0,0);"> *2025 Summer Software Engineering Internship*</span>, or <span style="color:rgb(255,0,0);">*Summer Laboratory Research Internship*</span>. Kindly please feel free to connect with me if anything interests you or we may discuss something else. <a><img src="../../images/hello.png" alt=" " width="20"/></a>
 
 <span style="color:rgb(112,128,144);">**----------------------**</span>
 
