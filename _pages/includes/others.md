@@ -1,4 +1,3 @@
-
 # 📖 Educations
 【Computer Science】
 - *2024.09 - 2029.06*, <span style="color:red;">*(Expected)*</span>, Doctor of Philosophy in Computer Science, *The City University of New York*.
@@ -13,6 +12,7 @@
 
 # 💬 Invited Talks
 - *2024.05*, Meet with external Review Team from Ministry of Education/Commission for Academic Accreditation (CAA) in Dubai, *University of Birmingham Dubai*.
+
 
 # 💻 Work Experience
 - *2022.09 - 2023.05*, **Back-end Software Developer**, [*Sunset Oasis Information Consultant Center*](https://www.linkedin.com/company/96330400/admin/dashboard/),  Changsha, China.
