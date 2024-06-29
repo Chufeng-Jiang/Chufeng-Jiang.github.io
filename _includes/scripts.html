@@ -4,7 +4,8 @@ document.addEventListener("DOMContentLoaded", function() {
     var descriptionDiv = document.getElementById("description");
     if (descriptionDiv) {
         var descriptionText = descriptionDiv.innerText || descriptionDiv.textContent;
-        var chineseRegex = /[\u4e00-\u9fa5]/;
+        // 扩展正则表达式以包含中文字符和标点符号
+        var chineseRegex = /[\u4e00-\u9fa5\u3000-\u303F\uFF00-\uFFEF]/;
 
         // 清空 descriptionDiv 内容
         descriptionDiv.innerHTML = '';
@@ -16,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
             span.textContent = char;
 
             if (chineseRegex.test(char)) {
-                span.style.setProperty('font-family', 'STZhongsong, serif', 'important'); // 中文字符使用华文中宋字体
+                span.style.setProperty('font-family', 'STZhongsong, serif', 'important'); // 中文字符和标点符号使用华文中宋字体
                 span.style.setProperty('font-style', 'normal', 'important'); // 移除斜体
             }
 
