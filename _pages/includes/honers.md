@@ -1,4 +1,4 @@
-# <a> <img src="../../images/congrad.webp" width="30" alt="img"></a>Honors and Awards
+# <a><img src="../../images/congrad.webp" width="30" alt="img"></a> Honors and Awards
 
 **【Awards】**
 
