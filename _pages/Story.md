@@ -1,5 +1,5 @@
 ---
-layout: default
+
 permalink: /story/
 title: "Story"
 

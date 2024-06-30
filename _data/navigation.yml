@@ -16,7 +16,7 @@ main:
     url: "/#-work-experience"
     
   - title: "Moments"
-    url: "/#-moments"
+    url: "/#-moments" 
     
   - title: "Story"
-    url: "/story/"
+    url: "/story/" # 重定向开一个新页面，在_pages下新建md文档
