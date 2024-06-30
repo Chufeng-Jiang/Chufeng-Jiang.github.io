@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /story
 title: "Story"
 
 author_profile: true
