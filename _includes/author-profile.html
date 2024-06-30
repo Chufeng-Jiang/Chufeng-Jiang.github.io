@@ -6,7 +6,7 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    <img src="{{ site.baseurl }}{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}"> <!-- 这里我 增加了{{ site.baseurl }}，不然跳出新页面样式会不一样-->
 	{% if site.description %}
         <li style="font-family: Century Schoolbook;list-style-type: none;white-space: normal; margin-bottom: 1em; text-align: center; font-style: italic; font-size: 12px;">
 			<div id="description">{{ site.description }}</div>
