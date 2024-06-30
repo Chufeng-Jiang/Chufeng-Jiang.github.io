@@ -2,13 +2,13 @@
 
 - 【2024.06.06】 Our paper "*Mixup-CLIPood: Robust Domain Generalization for Multi-modal Object Recognition*" is accepted by 5th [AIEA 2024](http://www.icaiea.com/)!
 
-- 【2024.04.15】 My financial aid has been revised to the **Graduate Center Fellowship! ** O~M~G! Thank you to the Graduate Center of CUNY! I am honored to receive this award and will work hard with Dr. Raffi on our research while striving to deliver excellent teaching to the undergraduates in the future.💪
+- 【2024.04.15】 My financial aid has been revised to the **Graduate Center Fellowship **! O~M~G! Thank you to the Graduate Center of CUNY! I am honored to receive this award and will work hard with Dr. Raffi on our research while striving to deliver excellent teaching to the undergraduates in the future.💪
 
 - 【2024.03.15】 I RECEIVED the financial aid from [Dr. Raffi Khatchadourian](https://khatchad.commons.gc.cuny.edu/). Thank you, Dr. Raffi! I will work hard on our research projects!!!! Finally, I can put my mind at ease. 😭
 
 - 【2024.03.10】 I RECEIVED the offer from CUNY. Thank you to all the interviewers and all committee members at CUNY! 🌹
 
-- 【2024.02.29】 Today is the final interview for my CS PhD at CUNY by the committee member. Hope I can pass it. 🙏
+- 【2024.02.29】 The final round interview is finished today for my CS PhD at CUNY with the committee member. Hope I can pass it. 🙏
 
 - 【2024.02.27】 My security trial project has ended, but I couldn't resolve the proposed problem. I am grateful to [Dr Eric Zhibo Sun](https://zhibosun.com/), and [Dr. Yue Zhang](https://yue.zyueinfosec.com/) for their patient guidance during these three months. I wish you all the best.💗
 
