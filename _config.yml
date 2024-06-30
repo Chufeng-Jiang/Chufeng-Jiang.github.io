@@ -10,6 +10,8 @@ title                    : "Chufeng (Beza) Jiang"
 description              : "奇迹枫枫：\"I am a Lucky Queen.\""
 repository               : "Chufeng-Jiang/Chufeng-Jiang.github.io"
 google_scholar_stats_use_cdn : true
+url                      : "https://chufeng-jiang.github.io" # 替换为您的实际 GitHub Pages URL
+baseurl                  : "" # 如果您的站点在根目录，保持为空
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
