@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: ""
+permalink: /story/
+title: "Story"
 
 author_profile: true
 redirect_from: 
