@@ -23,3 +23,6 @@ main:
     
   - title: "Moments"
     url: "/#-moments"
+
+  - title: "Story"
+    url: "/story"
