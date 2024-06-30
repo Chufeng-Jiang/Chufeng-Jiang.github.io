@@ -2,7 +2,7 @@
 
 - 【2024.06.06】 Our paper "*Mixup-CLIPood: Robust Domain Generalization for Multi-modal Object Recognition*" is accepted by 5th [AIEA 2024](http://www.icaiea.com/)!
 
-- 【2024.04.15】 My financial aid has been revised to the **Graduate Center Fellowship **! O~M~G! Thank you to the Graduate Center of CUNY! I am honored to receive this award and will work hard with Dr. Raffi on our research while striving to deliver excellent teaching to the undergraduates in the future.💪
+- 【2024.04.15】 My financial aid has been revised to the <strong>Graduate Center Fellowship</strong>! OMG! Thank you to the Graduate Center of CUNY! I am honored to receive this award and will work hard with Dr. Raffi on our research while striving to deliver excellent teaching to the undergraduates in the future.💪
 
 - 【2024.03.15】 I RECEIVED the financial aid from [Dr. Raffi Khatchadourian](https://khatchad.commons.gc.cuny.edu/). Thank you, Dr. Raffi! I will work hard on our research projects!!!! Finally, I can put my mind at ease. 😭
 
