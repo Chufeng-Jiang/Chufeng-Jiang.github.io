@@ -1,10 +1,10 @@
 ---
-permalink: /story
+permalink: /story/
 title: "Story"
 
 author_profile: true
 redirect_from: 
-  - /story.html
+  - /about.html
 ---
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
