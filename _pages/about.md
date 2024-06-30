@@ -14,15 +14,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'>About me</span>
+<strong><span class='anchor' id='about-me'>About me:</span></strong><br>
+
 {% include_relative includes/intro.md %}
-
-
-
-<!--excerpt: ""-->
-
-<!--If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
--->
 
 {% include_relative includes/news.md %}
 
