@@ -1,10 +1,9 @@
 ---
-permalink: /story/
+permalink: /
 title: "Story"
 
 author_profile: true
 redirect_from: 
-  - /story/
   - /story.html
 ---
 {% if site.google_scholar_stats_use_cdn %}
