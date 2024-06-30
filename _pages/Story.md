@@ -1,11 +1,11 @@
 ---
-layout: single
+layout: default
 permalink: /story/
 title: "Story"
 
 author_profile: true
 redirect_from: 
-  - /about.html
+  - /about
 ---
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
