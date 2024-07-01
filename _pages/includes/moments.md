@@ -4,7 +4,7 @@
 
 - 【2024.04.15】 My financial aid has been revised to the <strong>Graduate Center Fellowship</strong>! OMG!  THANK YOU to the Graduate Center of CUNY! I am honored to receive this award and will work hard with Dr. Raffi on our research while striving to deliver excellent teaching to the undergraduates in the future.💪
 
-- 【2024.03.15】 I RECEIVED the financial aid from [Dr. Raffi Khatchadourian](https://khatchad.commons.gc.cuny.edu/).  THANK YOU, Dr. Raffi! I will work hard on our research projects!!!! Finally, I can put my mind at ease. 😭
+- 【2024.03.15】 I RECEIVED the financial aid from [Dr. Raffi Khatchadourian](https://khatchad.commons.gc.cuny.edu/).  THANK YOU, Dr. Raffi!😭 I will work hard on our research projects!!!!  
 
 - 【2024.03.10】 I RECEIVED the offer from CUNY. THANK YOU to all the interviewers and all committee members at CUNY! 🌹
 
