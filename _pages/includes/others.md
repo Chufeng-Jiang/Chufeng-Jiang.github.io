@@ -1,6 +1,7 @@
 # 📖 Educations
 【Computer Science】
 - *2024.09 - 2029.06*, <span style="color:red;">*(Expected)*</span>, Doctor of Philosophy in Computer Science, *The City University of New York*.
+  - *<span style="color:gray; font-size:0.8em;">Advisor: Dr. Raffi Khatchadourian</span>*
 - *2024.01 - 2026.06*, <span style="color:red;">*(Expected)*</span>, Master of Science in Computer Science, *University of Texas at Austin*.
 - *2020.09 - 2023.06*, Bachelor of Engineering in Computer Science and Technology, *Nankai University*.
 	- *<span style="color:gray; font-size:0.8em;">Advisor: Dr. Haiwei Zhang</span>*
@@ -15,7 +16,7 @@
   - *<span style="color:gray; font-size:0.8em;">Supervisor: Dr. Flora Chu</span>*
   - *<span style="color:gray; font-size:0.8em;">Business Plan and Simulation: EmpoweredU Co. Ltd -  A Social Emotional Learning Platform in USA </span>*
 - *2014.12 - 2019.09*, Bachelor of Science in Applied Accounting, *Oxford Brookes University*.
-  - *<span style="color:gray; font-size:0.8em;">Mentor: Dr. Ying Ju</span>*
+  - *<span style="color:gray; font-size:0.8em;">Mentor: Ms. Ying Ju (ICF ACC Coach)</span>*
   - *<span style="color:gray; font-size:0.8em;">Thesis: An Evaluation of the Business and Financial Performance of China Shenhua Energy Company Limited Between 1st January 2015 and 31st December 2017</span>*
 - *2013.09 - 2017.06*, Bachelor of Management in Accounting *(ACCA)*,  *Hunan University*.
   - *<span style="color:gray; font-size:0.8em;">Advisor: Dr. Yanyan Jiang</span>*
