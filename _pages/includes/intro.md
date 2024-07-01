@@ -12,7 +12,9 @@ My research interests lie in:
 </div>
 I am particularly interested in how automated refactoring and program analysis might lessen the load of correctly, quickly, and safely evolving large and complicated software; and how to enhance and facilitate the long-term evolution of Machine Learning systems utilizing Software Engineering approaches. I have published 10+ papers at different international journals and conferences with total <a href='https://scholar.google.com/citations?user=6i-r0JIAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
-I am actively seeking a<span style="color:rgb(255,0,0);"> *2025 Summer Software Engineering Internship*</span>, or <span style="color:rgb(255,0,0);">*Summer Laboratory Research Internship*</span>. Kindly please feel free to connect with me if anything interests you or we may discuss something else. <a><img src="../../images/hello.png" alt=" " width="20"/></a>
+I am actively seeking a<span style="color:rgb(255,0,0);"> *2025 Summer Software Engineering Internship*</span>, or <span style="color:rgb(255,0,0);">*Summer Compnay Research Internship*</span> to apply my skills and engage in cutting-edge industry projects and deepen my understanding of the latest technological advancements. I am wishing to leverage my academic knowledge and hands-on experience to contribute to innovative solutions and drive impactful results. 
+
+I am excited about the opportunity to work in a dynamic environment where I can learn, grow, and make meaningful contributions to the team and the company. Kindly please feel free to connect with me if anything interests you. <a><img src="../../images/hello.png" alt=" " width="20"/></a>
 
 <div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>
 
