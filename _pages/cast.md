@@ -1,7 +1,7 @@
 ---
 
-permalink: /story/
-title: "Story"
+permalink: /cast/
+title: "Cast Away"
 
 author_profile: true
 redirect_from: 
@@ -13,15 +13,11 @@ redirect_from:
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="https://chufeng-jiang.github.io/story/">Life is Strange</a></li>
-
-			<li class="masthead__menu-item"><a href="{{ site.url }}{{ link.url }}">Dream Girls to Computer Science</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{{ site.url }}">Homepage</a></li>
+          {% for link in site.data.navigation.main %}
+            <li class="masthead__menu-item"><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
 			<li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"></a></li>
-            <li class="masthead__menu-item"><a href="{{ site.url }}{{ link.url }}">Cast Away (Life in Africa)</a></li>
-			<li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"></a></li>
-            <li class="masthead__menu-item"><a href="{{ site.url }}{{ link.url }}">At Dawn (The Nerd)</a></li>
-			<li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"></a></li>
-
+          {% endfor %}
 		</ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
@@ -43,4 +39,5 @@ redirect_from:
 <!--If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).-->
 <!-- excerpt: ""-->
 
-{% include_relative story/cs.md %}
+At the edge of the world, his journey begins. --"Cast Away"
+
