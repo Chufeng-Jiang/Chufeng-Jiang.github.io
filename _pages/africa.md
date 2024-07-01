@@ -1,6 +1,6 @@
 ---
 
-permalink: /story/
+permalink: /story/africa/
 title: "Story"
 
 author_profile: true
@@ -20,11 +20,6 @@ redirect_from:
 
 
 
-# Life is Strange
+# Life in Africa 2017 - 2020
 
-<span style="font-family: Century Schoolbook;color:rgb(112,128,144);">"This is not a detour; this is the path I took to get CUNY."</span>
-
-![ ](assets/pathCS.png)
-
-
-
+<span style="font-family: Century Schoolbook;color:rgb(112,128,144);">"Nothing's ever for sure, John. That's the only sure thing I do know."</span>
