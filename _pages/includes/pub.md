@@ -1,5 +1,4 @@
 # 📝 Publications 
-
 <div class='paper-box'>
 	<div class='paper-box-image'>
 		<div>
@@ -8,7 +7,6 @@
 		</div>
 	</div>
 	<div class='paper-box-text' markdown="1">
-
 [Mixup-CLIPood: Robust Domain Generalization for Multi-modal Object Recognition](https://github.com/Yuxin_Qiao/NewCLIPood) \\
 Yuxin Qiao, Keqin Li, Junhong Lin, Rong Wei, **<u>Chufeng Jiang</u>**, Yang Luo, Haoyu Yang.
 - **Contribution** <strong></strong>
@@ -17,7 +15,6 @@ Yuxin Qiao, Keqin Li, Junhong Lin, Rong Wei, **<u>Chufeng Jiang</u>**, Yang Luo,
   - Propose *Mixup-CLIPood* with a novel mix-up loss to enhance the previous model's generalization ability. 
 </div>
 </div>
-
 <div class='paper-box'>
 	<div class='paper-box-image'>
 		<div>
@@ -26,7 +23,6 @@ Yuxin Qiao, Keqin Li, Junhong Lin, Rong Wei, **<u>Chufeng Jiang</u>**, Yang Luo,
 		</div>
 	</div>
 	<div class='paper-box-text' markdown="1">
-
 [Large language models for forecasting and anomaly detection: A systematic literature review](https://arxiv.org/abs/2402.10350)  \\
 Jing Su, **<u>Chufeng Jiang</u>**, Xin Jin, Yuxin Qiao, Tingsong Xiao, Hongda Ma, Rong Wei, Zhi Jing, Jiajun Xu, Junhong Lin
 - **Research Questions**<strong></strong>
