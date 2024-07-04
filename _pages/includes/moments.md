@@ -1,5 +1,7 @@
 # 💫 Moments
 
+- 【2024.07.03】  [Dr. Lei Zhang](https://informationsystems.umbc.edu/home/faculty-and-staff/new-faculty-spotlights/lei-zhang-2/) from UMBC is currently recruiting PhD students for Jan. 2025. THREE positions available !  Application DDL is 1st September, 2024. 
+
 - 【2024.06.06】 Our paper "*Mixup-CLIPood: Robust Domain Generalization for Multi-modal Object Recognition*" is accepted by 5th [AIEA 2024](http://www.icaiea.com/)!
 
 - 【2024.04.15】 My financial aid has been revised to the <strong>Graduate Center Fellowship</strong>! OMG!  THANK YOU to the Graduate Center of CUNY! I am honored to receive this award and will work hard with Dr. Raffi on our research while striving to deliver excellent teaching to the undergraduates in the future.💪
