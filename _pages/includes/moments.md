@@ -1,5 +1,7 @@
 # 💫 Moments
 
+- 【2024.07.08】 <span style="color:red; font-weight:bold; ">I appreciate everyone's trust and support, and wish everyone success in the future.</span> <span style="font-family: Century Schoolbook; color:rgb(112,128,144);">*"You shall not murder. You shall not commit adultery. You shall not steal. You shall not give false testimony against your neighbor.  You shall not covet your neighbor's wife. You shall not set your desire on your neighbor's house or land, his male or female servant, his ox or donkey, or anything that belongs to your neighbor." ---[Deuteronomy 5:17-21 English Standard Version 2016 (ESV)](https://www.bible.com/bible/59/DEU.5.17-21.ESV)* </span>
+
 - 【2024.07.03】  [Dr. Lei Zhang](https://informationsystems.umbc.edu/home/faculty-and-staff/new-faculty-spotlights/lei-zhang-2/) from UMBC is currently recruiting PhD students for Jan. 2025. THREE positions available !  Application DDL is 1st September, 2024. 
 
 - 【2024.06.06】 Our paper "*Mixup-CLIPood: Robust Domain Generalization for Multi-modal Object Recognition*" is accepted by 5th [AIEA 2024](http://www.icaiea.com/)!
@@ -10,9 +12,9 @@
 
 - 【2024.03.10】 I RECEIVED the offer from CUNY. THANK YOU to all the interviewers and all committee members at CUNY! 🌹
 
-- 【2024.02.29】 The final round interview is finished today for my CS PhD at CUNY with the committee member. Hope I can pass it. 
+- 【2024.03.02】 Mr. Yuxin Qiao at NAU, Mr. Junhong Lin at MIT and Dr. Rong Wei at Peking University invited me to collaborate in their project! Thank you!
 
-- 【2024.03.02】Mr. Yuxin Qiao at NAU, Mr. Junhong Lin at MIT and Dr. Rong Wei at Peking University invited me to collaborate in their project! Thank you!
+- 【2024.02.29】 The final round interview is finished today for my CS PhD at CUNY with the committee member. Hope I can pass it. 
 
 - 【2024.02.27】 My security trial project has ended, but I couldn't resolve the proposed problem. I am grateful to [Dr Eric Zhibo Sun](https://zhibosun.com/), and [Dr. Yue Zhang](https://yue.zyueinfosec.com/) for their patient guidance during these three months. I wish you all the best.💗
 
