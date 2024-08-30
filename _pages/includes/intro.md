@@ -2,7 +2,7 @@ My name is <span style="font-family: Century Schoolbook;color:rgb(112,128,144);"
 
 <div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>
 
-I am a 1st year CS PhD student at [The City University of New York](https://www.gc.cuny.edu/computer-science), where I am advised by **[Dr. Raffi Khatchadourian](https://khatchad.commons.gc.cuny.edu/)**. Concurrently, I am also pursuing an MS in Computer Science at *The University of Texas at Austin*.
+I am a 1st year CS PhD student at ***The City University of New York***, where I am advised by **[Dr. Raffi Khatchadourian](https://khatchad.commons.gc.cuny.edu/)**. Concurrently, I am also pursuing an MS in Computer Science at ***The University of Texas at Austin***.
 
 My research interests lie in:
 <div>

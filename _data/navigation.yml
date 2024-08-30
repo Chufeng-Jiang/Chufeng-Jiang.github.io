@@ -15,6 +15,9 @@ main:
   - title: "Work Experience"
     url: "/#-work-experience"
     
+  - title: "Acknowledgements"
+    url: "/acknowledgements/"
+    
   - title: "Moments"
     url: "/#-moments" 
     

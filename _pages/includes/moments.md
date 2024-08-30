@@ -1,5 +1,7 @@
 # 💫 Moments
 
+- 【2024.08.28】Today is my first day of Ph.D journey, and my [PLACES IN MY HEART - ACKNOWLEDGEMENTS (28th Aug, 2024)](https://www.linkedin.com/pulse/places-my-heart-acknowledgements-28th-aug-2024-chufeng-beza-jiang-ummse/?trackingId=wnKSVt%2FoToKIfIO9F9%2Bl4g%3D%3D)
+
 - 【2024.07.08】 <span style="color:red; font-weight:bold; ">I appreciate everyone's trust and support, and wish everyone success in the future.</span> <span style="font-family: Century Schoolbook; color:rgb(112,128,144);">*"You shall not murder. You shall not commit adultery. You shall not steal. You shall not give false testimony against your neighbor.  You shall not covet your neighbor's wife. You shall not set your desire on your neighbor's house or land, his male or female servant, his ox or donkey, or anything that belongs to your neighbor." ---[Deuteronomy 5:17-21 English Standard Version 2016 (ESV)](https://www.bible.com/bible/59/DEU.5.17-21.ESV)* </span>
 
 - 【2024.07.03】  [Dr. Lei Zhang](https://informationsystems.umbc.edu/home/faculty-and-staff/new-faculty-spotlights/lei-zhang-2/) from UMBC is currently recruiting PhD students for Jan. 2025. THREE positions available !  Application DDL is 1st September, 2024. 
