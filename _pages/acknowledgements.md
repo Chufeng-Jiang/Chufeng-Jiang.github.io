@@ -106,7 +106,7 @@ Finally, I want say thank you to <span style="color:rgb(255,0,0);">**my parents*
 
 <div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>
 
-Today marks the beginning of my new academic journey, and I am reminded of the insightful words shared by my final committee interviewer at CUNY: *<span style="font-family: Century Schoolbook;color:rgb(112,128,144);">"Remember, this journey is as much about discovery and growth as it is about hard work and dedication. Embrace the challenges and opportunities that come your way, and never hesitate to reach out for guidance or support."</span>*
+Today marks the beginning of my new academic journey, and I am reminded of the insightful words shared by **Dr. Pegah Khosravi** at CUNY when I told her my admission decision: *<span style="font-family: Century Schoolbook;color:rgb(112,128,144);">"Remember, this journey is as much about discovery and growth as it is about hard work and dedication. Embrace the challenges and opportunities that come your way, and never hesitate to reach out for guidance or support."</span>*
 
 With profound gratitude and excitement for what lies ahead, I embark on this next chapter, confident that the trust, encouragement, and support I have received will continue to inspire and empower me. This journey is not merely a pursuit of knowledge but a transformative opportunity for personal growth. I eagerly anticipate embracing every lesson, both inside and outside the classroom, that will shape my future.
 
