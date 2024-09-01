@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chufeng (Beza) Jiang"
+  name             : #"Chufeng (Beza) Jiang"
   avatar           : "/images/chufeng.jpg"
   bio0             : "Chufeng (Beza) Jiang"
   bio1             : "CS PhD Student @ CUNY'29"
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=7ak4omcAAAAJ&hl=en"
   email            : #"cjiang@gradcenter.cuny.edu"
   researchgate     : #"https://www.researchgate.net/profile/Chufeng-Jiang" # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
