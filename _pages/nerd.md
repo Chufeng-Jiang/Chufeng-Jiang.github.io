@@ -24,6 +24,8 @@ redirect_from:
 
 During my freshman year, I was a student majoring in Chemical Engineering and Technology. Of course, I didn't like chemistry; I was reassigned to the chemistry major randomly by the system. <span style="font-family: Century Schoolbook;color:rgb(112,128,144);"><i>(Reassignment means that I was admitted to the university, but my entrance exam scores didn't meet the requirements for my preferred major, so I was randomly assigned to a different department with available slots.)</i></span> 
 
+![ ](assets/ce1301.jpeg)
+
 <img src="assets/ce1301.jpeg" style="width: 70%; height: 50%;" alt="ce1301">
 
 <div style="text-align: center; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);">     <i>1st year of undergraduate in Chemical Engineering and Technology 化学1301班 @ Hunan Unniversity, 2013</i> </div>
