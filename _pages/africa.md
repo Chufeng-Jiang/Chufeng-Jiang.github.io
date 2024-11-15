@@ -58,7 +58,7 @@ Initially, I was assigned to Abuja to handle international accounting affairs. I
 
 
 
-Later, I was reassigned to the Lagos-Ibadan Project, which had just started. I remained with that project for most of my time in Nigeria, progressing from a junior position to a senior role.
+Later, I was reassigned to the Lagos-Ibadan Project, which had just started. I remained with that project for most of my 3 years in Nigeria, progressing from a junior position to a senior role.
 
 The early days in Nigeria were quite uneventful. The project site was located in a very rural village, and for safety reasons, I wasn’t allowed to leave without permission. Most of my time was spent at the camp, waiting for third parties and construction managers to approach me with financial matters. Occasionally, I visited the construction site for audits and inspections to review progress and estimate project costs.
 
