@@ -36,7 +36,7 @@ And after the first year, I transferred to the Accounting major (concentration: 
 
 ![ ](assets/acca1301.jpeg)
 
-<div style="text-align: center; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);">     <i>My new classmates, though I don't like accounting but my classmates are vey niCe, ACCA1301 @ Hunan University, 2015</i> </div>
+<div style="text-align: center; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);">     <i>My new classmates, though I don't like accounting but my classmates are vey nice, ACCA1301 @ Hunan University, 2015</i> </div>
 
 In my final year of undergraduate studies, I participated in the graduate school entrance exams. I underestimated my performance, mistakenly believing my score would fall short of the requirements for my preferred school. Although I ultimately met the threshold, my lack of confidence before the release of the minimum passing score led me to doubt myself. My family, however, was deeply disappointed—not only because they feared I might fail such an important exam but also because they believed I lacked ambition, was overly reliant on them, and struggled to live independently.
 
