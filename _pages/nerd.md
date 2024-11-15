@@ -24,17 +24,17 @@ redirect_from:
 
 During my freshman year, I was a student majoring in Chemical Engineering and Technology. Of course, I didn't like chemistry; I was reassigned to the chemistry major randomly by the system. <span style="font-family: Century Schoolbook;color:rgb(112,128,144);"><i>(Reassignment means that I was admitted to the university, but my entrance exam scores didn't meet the requirements for my preferred major, so I was randomly assigned to a different department with available slots.)</i></span> 
 
-<img src="./assets/b6bd4263c6382da7b94e7cb725aca397.jpeg" style="width: 70%; height: 50%;" alt="ce1301">
+<img src="assets/ce1301.jpeg" style="width: 70%; height: 50%;" alt="ce1301">
 
 <div style="text-align: center; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);">     <i>1st year of undergraduate in Chemical Engineering and Technology 化学1301班 @ Hunan Unniversity, 2013</i> </div>
 
-<img src="./assets/image-20241115161922814.png" style="width: 70%; height: 50%;" alt="ce1301">
+<img src="./assets/love1301.png" style="width: 70%; height: 50%;" alt="ce1301">
 
 <div style="text-align: center; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);">     <i>My Forever Love 4 Roommates, Graduation, Chemical Engineering and Technology 化工1301班 @ Hunan University, 2017</i> </div>
 
 And after the first year, I transferred to the Accounting major (concentration: the *Association of Chartered Certified Accountants*) at my family's request. Of course, Unfortunately, I didn't enjoy accounting either. I struggled to find my true interests for a very long time.
 
-<img src="./assets/image-20241115161445733.png" style="width: 50%; height: 50%;" alt="ACCA1301">
+<img src="./assets/acca1301.png" style="width: 50%; height: 50%;" alt="ACCA1301">
 
 <div style="text-align: center; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);">     <i>My new classmates, though I don't like accounting but my classmates are vey niCe, ACCA1301 @ Hunan University, 2015</i> </div>
 
