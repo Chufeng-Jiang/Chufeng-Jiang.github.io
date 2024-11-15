@@ -6,11 +6,11 @@ I am a 1st year CS PhD student at ***The City University of New York***, where I
 
 My research interests lie in:
 <div>
-    <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">1. Software Engineering;</li> 
-    <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">2. Programming Language;</li>
-    <li style="list-style-type: none; margin-bottom: 10px; padding-left: 25%; font-weight: bold;">3. Machine Learning System.</li>
+    <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">1. Software Engineering and Programming Language;</li> 
+    <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">2. Machine Learning System;</li>
+    <li style="list-style-type: none; margin-bottom: 10px; padding-left: 25%; font-weight: bold;">3. Technical Debt.</li>
 </div>
-I am particularly interested in how automated refactoring and program analysis might lessen the load of correctly, quickly, and safely evolving large and complicated software; and how to enhance and facilitate the long-term evolution of Machine Learning systems utilizing Software Engineering approaches. <!-- I have published some papers at different international journals and conferences with total <a href='https://scholar.google.com/citations?user=7ak4omcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
+I am particularly focused on applying Software Engineering methodologies to address Technical Debt in Machine Learning systems. This involves mining code and data across diverse models to identify refactorings that specifically target ML-related technical debt. Additionally, I aim to develop innovative refactoring techniques at both the code and data levels, integrating object-oriented practices to simplify and enhance the maintainability of complex, interdependent models. <!-- I have published some papers at different international journals and conferences with total <a href='https://scholar.google.com/citations?user=7ak4omcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 I am actively seeking a<span style="color:rgb(255,0,0);"> *2025 Summer Software Engineering Internship*</span>, or <span style="color:rgb(255,0,0);">*Summer Compnay Research Internship*</span> to apply my skills and engage in cutting-edge industry projects and deepen my understanding of the latest technological advancements. I am wishing to leverage my academic knowledge and hands-on experience to contribute to innovative solutions and drive impactful results. 
 
