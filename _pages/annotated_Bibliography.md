@@ -7,7 +7,7 @@ author_profile: true
 redirect_from: 
   - /about
 ---
-{% include_relative subnav.md %}
+%{% include_relative subnav.md %}
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
