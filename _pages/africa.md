@@ -22,7 +22,7 @@ redirect_from:
 
 # Life in Africa 2017 - 2020
 
-<span style="font-family: Century Schoolbook;color:rgb(112,128,144);">"Nothing's ever for sure, John. That's the only sure thing I do know."</span>
+<span style="font-family: Century Schoolbook;color:rgb(112,128,144);">"Nothing's ever for sure, John. That's the only sure thing I do know." ——by A Beautiful Mind.</span>
 
 Life in Africa was far more challenging than I had anticipated. 
 
