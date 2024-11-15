@@ -44,7 +44,7 @@ After completing the year-end audit at the company in Kenya, I moved to Nigeria,
 
 Initially, I was assigned to Abuja to handle international accounting affairs. In my second month there, I contracted malaria and experienced a high fever of nearly 40°C. Thanks to the attentive care of Mrs. Yafei and Dr. Deng, I recovered quickly and regained my health.
 
-![image-20241115180855757](assets/image-20241115180855757.png)
+![image-20241115180855757](assets/nigeria.jpeg)
 
 <div style="text-align: center; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);">     <i>CCECC NG Abuja, Nigeria, 2018</i> </div>
 
@@ -52,7 +52,7 @@ Later, I was reassigned to the Lagos-Ibadan Project, which had just started. I r
 
 The early days in Nigeria were quite uneventful. The project site was located in a very rural village, and for safety reasons, I wasn’t allowed to leave without permission. Most of my time was spent at the camp, waiting for third parties and construction managers to approach me with financial matters. Occasionally, I visited the construction site for audits and inspections to review progress and estimate project costs.
 
-![image-20241115180855757](assets/LI.JPEG)
+![image-20241115180855757](assets/LI.jpeg)
 
 <div style="text-align: center; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);">     <i>CCECC NG Ogun, Nigeria, 2020</i> </div>
 
