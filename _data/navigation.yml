@@ -1,23 +1,26 @@
 # main links links
 main:
-  - title: "News"
-    url: "/#-news"
+#  - title: "News"
+#    url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+#  - title: "Honors and Awards"
+#    url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+#  - title: "Educations"
+#    url: "/#-educations"
 
-  - title: "Work Experience"
-    url: "/#-work-experience"
+#  - title: "Work Experience"
+#    url: "/#-work-experience"
     
   - title: "Acknowledgements"
     url: "/acknowledgements/"
     
+  - title: "Annotated Bibliography"
+    url: "/annotated_Bibliography/"
+
   - title: "Moments"
     url: "/#-moments" 
     
