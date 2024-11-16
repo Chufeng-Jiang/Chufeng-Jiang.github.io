@@ -34,13 +34,13 @@ During my freshman year, I was a student majoring in Chemical Engineering and Te
 
 <div style="text-align: center; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);">     <i>My Forever Love 4 Roommates, Graduation, Chemical Engineering and Technology 化工1301班 @ Hunan University, 2017</i> </div>
 
-And after the first year, I transferred to the Accounting major (concentration: the *Association of Chartered Certified Accountants*) at my family's request. Of course, Unfortunately, I didn't enjoy accounting either. I struggled to find my true interests for a very long time.
+<br>And after the first year, I transferred to the Accounting major (concentration: the *Association of Chartered Certified Accountants*) at my family's request. Of course, Unfortunately, I didn't enjoy accounting either. I struggled to find my true interests for a very long time.
 
 ![ ](assets/acca1301.jpeg)
 
 <div style="text-align: center; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);">     <i>My new classmates, though I don't like accounting but my classmates are vey nice, ACCA1301 @ Hunan University, 2015</i> </div>
 
-In my final year of undergraduate studies, I participated in the graduate school entrance exams. I underestimated my performance, mistakenly believing my score would fall short of the requirements for my preferred school. Although I ultimately met the threshold, my lack of confidence before the release of the minimum passing score led me to doubt myself. My family, however, was deeply disappointed—not only because they feared I might fail such an important exam but also because they believed I lacked ambition, was overly reliant on them, and struggled to live independently.
+<br>In my final year of undergraduate studies, I participated in the graduate school entrance exams. I underestimated my performance, mistakenly believing my score would fall short of the requirements for my preferred school. Although I ultimately met the threshold, my lack of confidence before the release of the minimum passing score led me to doubt myself. My family, however, was deeply disappointed—not only because they feared I might fail such an important exam but also because they believed I lacked ambition, was overly reliant on them, and struggled to live independently.
 
 To push me toward self-reliance, they gave me ¥8,000 Chinese Yuan (approximately $1,140) and informed me that I would need to support myself from that point forward, as they would no longer provide financial assistance. Believing it was just a stern warning, I left home with the money and began working to make ends meet.
 
