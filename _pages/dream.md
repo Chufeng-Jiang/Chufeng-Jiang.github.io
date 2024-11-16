@@ -22,7 +22,7 @@ redirect_from:
 
 # Dream Girl
 
-<span style="font-family: Century Schoolbook;color:rgb(112,128,144);">"When there was nothing to believe in, she believed in herself."</span>
+<span style="font-family: Century Schoolbook;color:rgb(112,128,144);">"When there was nothing to believe in, she believed in herself."  ——by Homeless to Harvard.</span>
 
 I prefer not to focus on the reasons why I transitioned to Computer Science. Life had its ups and downs, but I’m committed to taking responsibility for my choices and following through with my plans for the future.
 
