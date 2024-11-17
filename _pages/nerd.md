@@ -59,7 +59,7 @@ This decision marked the beginning of my journey toward financial independence a
     Mountains shifted, the earth trembled, and you remained oblivious, thinking it was just another routine moment in life. Isn’t the rise and fall, life and death of this world, nothing more than the arising and passing of events in the stillness of time?"<br><br>
 ——By The Girl Who Killed Quails</i> </div> <br>
 
-<div style="text-align: left; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);"> Original Version: </div>
+<div style="text-align: left; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);"> Original Version in Chinese:<br> </div>
 
 "当你老了，回顾一生，就会发觉：什么时候出国读书、什么时候决定做第一份职业、何时选定了对象而恋爱、什么时候结婚、其实都是命运的巨变。<br><br>
 
