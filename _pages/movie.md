@@ -1,6 +1,6 @@
 ---
 
-permalink: /ashes_of_Time/
+permalink: /movie/
 title: "Ashes of Time"
 
 author_profile: true
