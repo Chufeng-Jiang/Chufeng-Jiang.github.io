@@ -26,7 +26,7 @@ redirect_from:
   <a href="https://www.linkedin.com/pulse/places-my-heart-acknowledgements-28th-aug-2024-chufeng-beza-jiang-ummse/" style="font-size: 16px; font-weight: bold;">PLACES IN MY HEART - ACKNOWLEDGEMENTS (28th Aug, 2024)</a>
 </div> -->
 
-> The original Chinese version of this page can be found in the latter half.
+> The original Chinese version of this page can be found in the latter half.<br>
 > The Movie can be found at [Ashes of Time Redux | Full Movie | Piece Of The Action](https://www.youtube.com/watch?v=t0PTHlSCJl0)
 
 This is my favorite movie. I like the The Northern Beggar **Hong Qigong** most. 
@@ -75,23 +75,23 @@ PS：I want to introduce another **excerpt** to you, which is unrelated to this 
 
 <span style="font-family: SimSun;">然而他最终帮了村姑，因此而失去了一个手指，他说“不值得，但是我觉得痛快，这才是我自己”。其实，这个手指当然丢得值得，他靠着这个找回了自己的简单和直接。</span>
 
-<span style="font-family: SimSun;">洪七说：</span>
 
-> <span style="font-family: SimSun;">“不值得！但是我觉得痛快，这才是我自己。</span>
+
+> <span style="font-family: KaiTi_GB2312 ;">洪七说：</span><br><br><span style="font-family: KaiTi_GB2312 ;">“不值得！但是我觉得痛快，这才是我自己。</span>
 >
-> <span style="font-family: SimSun;">本来我应该没事，但是我的刀没以前快。我以前快是因为我直接，认为对就去做，从来不会想什么代价。我以为我这一辈子都不会变，直到那个女孩来求我，我才发觉我完全变了，我竟然没有答应她，因为我知道你一定不会答应。</span>
+> <span style="font-family: KaiTi_GB2312 ;">本来我应该没事，但是我的刀没以前快。**我以前快是因为我直接，认为对就去做，从来不会想什么代价。**我以为我这一辈子都不会变，直到那个女孩来求我，我才发觉我完全变了，我竟然没有答应她，因为我知道你一定不会答应。</span>
 >
-> <span style="font-family: SimSun;">那天，我很失望，我觉得我已经和你混在一起，变成另一个人，没有了自己。我不想跟你一样，因为我知道你欧阳锋绝对不会为一个鸡蛋去冒险，这是我和你的区别。”</span>
+> <span style="font-family: KaiTi_GB2312 ;">那天，我很失望，我觉得我已经和你混在一起，变成另一个人，没有了自己。我不想跟你一样，因为我知道你欧阳锋绝对不会为一个鸡蛋去冒险，这是我和你的区别。”</span>
 
 <span style="font-family: SimSun;">洪七丢了一根手指不能再用刀，但是赤手空拳也照样能杀人，江湖上也没有规矩说不准带着老婆闯荡江湖，事在人为。</span>
 
 <span style="font-family: SimSun;">他带着妻子闯荡江湖，他在杀人的同时帮人，他不是一个普通的刀客，这已和有没有鞋无关，而是他以自己简单直接想怎样就怎样的方式去闯，和别的刀客都不同，和潮流不同。</span>
 
-> <span style="font-family: SimSun;">“我觉得对我就会去做，从来没有想会不会有什么代价。”</span>
+> <span style="font-family: KaiTi_GB2312 ;">“我觉得对我就会去做，从来没有想会不会有什么代价。”</span>
 >
-> ​                               <span style="font-family: SimSun;">——By 洪七</span>
+> ​                               <span style="font-family: KaiTi_GB2312 ;">——By 洪七</span>
 
-<span style="font-family: SimSun;">PS：我想向大家介绍另一个**摘录**，它与这部电影无关，但我很喜欢它， 你可以在“书呆子”章节的末尾找到它：[https://chufeng-jiang.github.io/story/nerd/](https://chufeng-jiang.github.io/story/nerd/)</span>
+<span style="font-family: SimSun;">PS：我想向大家介绍另一个**摘录**，它与这部电影无关，但我很喜欢它，你可以在“书呆子”章节的末尾找到它：[https://chufeng-jiang.github.io/story/nerd/](https://chufeng-jiang.github.io/story/nerd/)</span>
 
 
 
