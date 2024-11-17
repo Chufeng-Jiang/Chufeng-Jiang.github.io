@@ -50,5 +50,17 @@ By the time I graduated, I realized I couldn’t repay my debts with the modest 
 
 This decision marked the beginning of my journey toward financial independence and a new chapter in my life.
 
+<div style="text-align: left; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);">     <i>"When you grow old and look back on your life, you will realize: <br><br>
+    The moments when you decided to study abroad, when you chose your first career, when you fell in love after deciding on a partner, and when you got married—all were monumental changes of fate. Yet, standing at the crossroads, amidst the fleeting winds and myriad sails, the day you made your choice seemed ordinary and uneventful. It might even have been noted in your diary as just another day. <br><br>
+    But a great transformation had already begun. Mountains shifted, the earth trembled, and you remained oblivious, thinking it was just another routine moment in life. Isn’t the rise and fall, life and death of this world, nothing more than the arising and passing of events in the stillness of time?"<br><br>
+——By The Girl Who Killed Quails</i> </div>
+
+
+    Original: 
+    
+    "当你老了，回顾一生，就会发觉：什么时候出国读书、什么时候决定做第一份职业、何时选定了对象而恋爱、什么时候结婚、其实都是命运的巨变。只是站在三岔路口，眼见风云千樯，你作出出抉择的那一日，在日记上，相当沉闷和平凡，当时还以为是生命中普通的一天。 但一场巨变，已经发生了。地动山移，浑然不觉，当时只道是寻常。世上的生死荣衰，不就是在空寂之中缘起缘灭的吗？" 
+    
+    —— 《杀鹌鹑的少女》
+
 <!-- My first work was in Ethiopia, where I worked as a junior accountant for the Kombolcha-Bati-Mille Upgrade Project. Then I went to Kenya, working as an accountant and tax specialist for the Karen Waterfront Shopping Mall Project and Kakamega County General Hospital Project. After gaining comprehensive training in various roles, I joined the China Civil Engineering Construction Corporation Nigeria Limited, where I primarily worked on the Lagos-Ibadan Railway project, along with the Abuja Airport Project and various logistics and real estate projects in Abuja. I stayed in Abeokuta for almost three years, progressing from accountant to assistant financial manager.-->
 
