@@ -51,3 +51,5 @@ During my application and interview process, I was fortunate to receive invaluab
 Completing my MBA program in just 12 months was a significant milestone that not only equipped me with essential business acumen but also reignited my passion for computer science—the field where my true interests lie. During this time, I also received valuable guidance from computer science scholars who helped me meet the rigorous standards for a NIW application, providing me with the flexibility to explore areas in computer science that align with my interests and aspirations.
 
 Motivated by my accomplishments and the unwavering support of my friends and mentors, particularly **Dr. Raffi Khatchadourian**, who is now my PhD advisor, I transitioned to the next phase of my academic journey with renewed determination and a clear vision for the future. This synergy between my interdisciplinary background and my passion for computer science has fueled my drive to make meaningful contributions to the field.
+
+ <br> <br> <br> <br> <br> <br> <br> <br> <br>

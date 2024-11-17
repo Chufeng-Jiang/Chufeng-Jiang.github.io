@@ -74,4 +74,4 @@ The early days in Nigeria were quite uneventful. The project site was located in
 
 These three years were invaluable for my professional growth. I became well-versed in all aspects of accounting, from basic journal entries and financial reporting to negotiating with stakeholders to recover funds and maintain cash flow throughout the project's progress.
 
-Time flew by, and as my employment came to an end, I realized I had achieved what I set out to accomplish. With that sense of fulfillment, I returned to China to explore new opportunities and consider a different path in life. 
+Time flew by, and as my employment came to an end, I realized I had achieved what I set out to accomplish. With that sense of fulfillment, I returned to China to explore new opportunities and consider a different path in life. <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
