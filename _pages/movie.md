@@ -29,11 +29,11 @@ redirect_from:
 > The original Chinese version of this page can be found in the latter half.<br>
 > The Movie can be found at [Ashes of Time Redux | Full Movie | Piece Of The Action](https://www.youtube.com/watch?v=t0PTHlSCJl0)
 
-This is my favorite movie. I like the The Northern Beggar **Hong Qigong** most. 
+This is my favorite movie. I like the The Northern Beggar  <span style="color:rgb(255,0,0);">**Hong Qigong**</span> most. 
 
-It feels like my personality and certain beliefs have been shaped not only by society but also by the characters portrayed in literary works, such as Hong Qi from this one, ***Ashes of Time***. 
+It feels like my personality and certain beliefs have been shaped not only by society but also by the characters portrayed in literary works, such as Hong Qi from this one,  <span style="color:rgb(255,0,0);">***Ashes of Time***</span>. 
 
-Hong Qi is a straightforward and simple man, but in Wong Kar-wai’s (The Movie Director)  intricate world of martial arts, being simple can be an advantage. **If you're simple enough, you might just have the last laugh.**
+Hong Qi is a straightforward and simple man, but in Wong Kar-wai’s (The Movie Director)  intricate world of martial arts, being simple can be an advantage.  <span style="color:rgb(255,0,0);">**If you're simple enough, you might just have the last laugh.**</span>
 
 ![image-20241117121329991](assets/image-20241117121329991.png)
 
@@ -43,17 +43,17 @@ The Western Venom Viper **Ouyang Feng** bought him a pair of shoes, but Hong Qi 
 
 Yet, even someone as simple as Hong Qi can get lost when facing Ouyang Feng.
 
-Wearing shoes or not shows whether you have status. Preparing for a fight or not shows whether you’re just a mercenary or a true hero. When the village girl first came to beg Hong Qi to avenge her family, he refused because he knew Ouyang Feng wouldn’t approve. **Even the simplest and most straightforward person can change under someone else's influence. No matter how direct Hong Qi is, he still hesitates and wonders if there’s another way.**
+Wearing shoes or not shows whether you have status. Preparing for a fight or not shows whether you’re just a mercenary or a true hero. When the village girl first came to beg Hong Qi to avenge her family, he refused because he knew Ouyang Feng wouldn’t approve.  <span style="color:rgb(255,0,0);">**Even the simplest and most straightforward person can change under someone else's influence. No matter how direct Hong Qi is, he still hesitates and wonders if there’s another way.**</span>
 
-In the end, though, he did help the village girl, even at the cost of losing a finger. He said, "***It wasn’t worth it, but it felt good—that’s who I truly am.***" In truth, the loss of that finger was worth it—it helped him rediscover his simplicity and directness.
+In the end, though, he did help the village girl, even at the cost of losing a finger. He said,  <span style="color:rgb(255,0,0);">"***It wasn’t worth it, but it felt good—that’s who I truly am.***" </span>In truth, the loss of that finger was worth it—it helped him rediscover his simplicity and directness.
 
-<div style="text-align: left; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);"><i>Hong Qi said,<br><br> "It's not worth it! But it felt good—that's who I truly am.I should've stayed out of it, but my blade isn't as sharp as it used to be. It was sharp because I was straightforward—I did what I thought was right without ever considering the cost. I thought I would always stay that way. But when that girl came to me for help, I realized I had changed. I didn’t agree to help her, not because I didn’t want to, but because I knew you wouldn’t approve.<br><br>That day, I was disappointed in myself. I felt like I had become one of you, like I had lost myself. I didn’t want to be like you, because I know Ouyang Feng would never risk his life for something as trivial as an egg. That’s the difference between you and me.” </i> </div> <br>
+<div style="text-align: left; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);"><i>Hong Qi said,<br><br> "No.It's not worth it! But I felt alive—I was myself again. This should have been no sweat. But I've lost my speed. I was quick because I never hesitated.If it felt right, I'd do it. I never cared about the money. I thought I'd always be that way. Then that girl asked me for help... and I knew I was a changed man. I turned her down... because I knew you wouldn’t approve.<br><br>That day, I hate myself for it. I felt like I confused myself with you, I'd lost my real self. I didn’t want to be like you, because I know you would never ever risk your life for an egg. That’s the difference between us.” </i> </div> <br>
 
-Even without that finger, even without a blade, Hong Qi could still kill barehanded. After all, the martial world has no rules against roaming with your wife by your side. **The path is what you make of it.**
+Even without that finger, even without a blade, Hong Qi could still kill barehanded. After all, the martial world has no rules against roaming with your wife by your side. <span style="color:rgb(255,0,0);"> **The path is what you make of it.**</span>
 
-With his wife, he roamed the martial world, helping others while taking lives. He was no ordinary swordsman. It wasn’t about wearing shoes or not; **it was about living on his own terms—simple, direct, and free.** He chose his own path, one that stood apart from others, apart from the trends of the world.
+With his wife, he roamed the martial world, helping others while taking lives. He was no ordinary swordsman. It wasn’t about wearing shoes or not;  <span style="color:rgb(255,0,0);">**it was about living on his own terms—simple, direct, and free.**</span> He chose his own path, one that stood apart from others, apart from the trends of the world.
 
-<div style="text-align: left; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);"><i>"If I believe it’s right, I’ll do it—without ever thinking about the cost." <br><br>——Hong Qi</i> </div> <br>
+<div style="text-align: left; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);"><i>"If it felt right, I'd do it." <br><br>——Hong Qi</i> </div> <br><br>
 
 PS：I want to introduce another **excerpt** to you, which is unrelated to this movie, and I like it very much. You can find it at the end of the section titled 'The Nerd' on [https://chufeng-jiang.github.io/story/nerd/](https://chufeng-jiang.github.io/story/nerd/)
 
@@ -75,21 +75,21 @@ PS：I want to introduce another **excerpt** to you, which is unrelated to this 
 
 <span style="font-family: SimSun;">然而他最终帮了村姑，因此而失去了一个手指，他说“不值得，但是我觉得痛快，这才是我自己”。其实，这个手指当然丢得值得，他靠着这个找回了自己的简单和直接。</span>
 
+<span style="font-family: KaiTi_GB2312 ;">洪七说：</span><br><br><span style="font-family: KaiTi_GB2312 ;">“不值得！但是我觉得痛快，这才是我自己。</span>
 
+<span style="font-family: KaiTi_GB2312 ;">本来我应该没事，但是我的刀没以前快。**我以前快是因为我直接，认为对就去做，从来不会想什么代价。**我以为我这一辈子都不会变，直到那个女孩来求我，我才发觉我完全变了，我竟然没有答应她，因为我知道你一定不会答应。</span>
 
-> <span style="font-family: KaiTi_GB2312 ;">洪七说：</span><br><br><span style="font-family: KaiTi_GB2312 ;">“不值得！但是我觉得痛快，这才是我自己。</span>
->
-> <span style="font-family: KaiTi_GB2312 ;">本来我应该没事，但是我的刀没以前快。**我以前快是因为我直接，认为对就去做，从来不会想什么代价。**我以为我这一辈子都不会变，直到那个女孩来求我，我才发觉我完全变了，我竟然没有答应她，因为我知道你一定不会答应。</span>
->
-> <span style="font-family: KaiTi_GB2312 ;">那天，我很失望，我觉得我已经和你混在一起，变成另一个人，没有了自己。我不想跟你一样，因为我知道你欧阳锋绝对不会为一个鸡蛋去冒险，这是我和你的区别。”</span>
+<span style="font-family: KaiTi_GB2312 ;">那天，我很失望，我觉得我已经和你混在一起，变成另一个人，没有了自己。我不想跟你一样，因为我知道你欧阳锋绝对不会为一个鸡蛋去冒险，这是我和你的区别。”<br><br></span>
 
 <span style="font-family: SimSun;">洪七丢了一根手指不能再用刀，但是赤手空拳也照样能杀人，江湖上也没有规矩说不准带着老婆闯荡江湖，事在人为。</span>
 
 <span style="font-family: SimSun;">他带着妻子闯荡江湖，他在杀人的同时帮人，他不是一个普通的刀客，这已和有没有鞋无关，而是他以自己简单直接想怎样就怎样的方式去闯，和别的刀客都不同，和潮流不同。</span>
 
-> <span style="font-family: KaiTi_GB2312 ;">“我觉得对我就会去做，从来没有想会不会有什么代价。”</span>
->
-> ​                               <span style="font-family: KaiTi_GB2312 ;">——By 洪七</span>
+<span style="font-family: KaiTi_GB2312 ;">“我觉得对我就会去做。”</span>
+
+​                               <span style="font-family: KaiTi_GB2312 ;">——By 洪七<br><br></span>
+
+
 
 <span style="font-family: SimSun;">PS：我想向大家介绍另一个**摘录**，它与这部电影无关，但我很喜欢它，你可以在“书呆子”章节的末尾找到它：[https://chufeng-jiang.github.io/story/nerd/](https://chufeng-jiang.github.io/story/nerd/)</span>
 
