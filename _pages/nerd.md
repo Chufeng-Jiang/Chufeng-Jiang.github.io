@@ -48,18 +48,22 @@ Initially, I assumed their stance was temporary. However, when the money ran out
 
 By the time I graduated, I realized I couldn’t repay my debts with the modest salaries typically offered in China. Determined to find a solution, I decided to join China’s Foreign Infrastructure Aid Projects in Africa, which promised at least triple the income I could earn at home. 
 
-This decision marked the beginning of my journey toward financial independence and a new chapter in my life.
+This decision marked the beginning of my journey toward financial independence and a new chapter in my life.<br>
 
-<br><div style="text-align: left; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);">     <i>"When you grow old and look back on your life, you will realize: <br><br>
-    The moments when you decided to study abroad, when you chose your first career, when you fell in love after deciding on a partner, and when you got married—all were monumental changes of fate. Yet, standing at the crossroads, amidst the fleeting winds and myriad sails, the day you made your choice seemed ordinary and uneventful. It might even have been noted in your diary as just another day. <br><br>
-    But a great transformation had already begun. Mountains shifted, the earth trembled, and you remained oblivious, thinking it was just another routine moment in life. Isn’t the rise and fall, life and death of this world, nothing more than the arising and passing of events in the stillness of time?"<br><br>
-——By The Girl Who Killed Quails</i> </div>
+<div style="text-align: left; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);">     <i>"When you grow old and look back on your life, you will realize: <br><br>
+    The moments when you decided to study abroad, when you chose your first career, when you fell in love after deciding on a partner, and when you got married—all were monumental changes of fate.<br><br> 
+    Yet, standing at the crossroads, amidst the fleeting winds and myriad sails, the day you made your choice seemed ordinary and uneventful. It might even have been noted in your diary as just another day. <br><br>
+    But a great transformation had already begun. <br><br>
+    Mountains shifted, the earth trembled, and you remained oblivious, thinking it was just another routine moment in life. Isn’t the rise and fall, life and death of this world, nothing more than the arising and passing of events in the stillness of time?"<br><br>
+——By The Girl Who Killed Quails</i> </div> <br>
 
-<span style="font-family: SimSun;">Original: <br><br>
+<div style="text-align: left; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);"> Original Version: </div>
 
-"当你老了，回顾一生，就会发觉：什么时候出国读书、什么时候决定做第一份职业、何时选定了对象而恋爱、什么时候结婚、其实都是命运的巨变。只是站在三岔路口，眼见风云千樯，你作出出抉择的那一日，在日记上，相当沉闷和平凡，当时还以为是生命中普通的一天。 但一场巨变，已经发生了。地动山移，浑然不觉，当时只道是寻常。世上的生死荣衰，不就是在空寂之中缘起缘灭的吗？" <br><br>
+<span style="font-family: SimSun;"><i>"当你老了，回顾一生，就会发觉：什么时候出国读书、什么时候决定做第一份职业、何时选定了对象而恋爱、什么时候结婚、其实都是命运的巨变。<br><br>
 
-—— 《杀鹌鹑的少女》</span>
+只是站在三岔路口，眼见风云千樯，你作出出抉择的那一日，在日记上，相当沉闷和平凡，当时还以为是生命中普通的一天。 <br><br>但一场巨变，已经发生了。<br><br>地动山移，浑然不觉，当时只道是寻常。世上的生死荣衰，不就是在空寂之中缘起缘灭的吗？"<br><br>
+
+—— 《杀鹌鹑的少女》</i></span>
 
 
 
