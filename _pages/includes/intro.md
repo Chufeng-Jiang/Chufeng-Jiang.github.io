@@ -13,26 +13,24 @@ My research interests lie in:
 
 I am particularly focused on applying Software Engineering methodologies to address Technical Debt in Machine Learning Systems.
 
-<div class='paper-box'>
-	<div class='paper-box-image'>
-		<div>
-			<div class="badge"> </div>
-			<img src='../../images/TD.png' alt="sym" width="100%">
-		</div>
-	</div>
-	<div class='paper-box-text' markdown="1">
-**What is Technical Debt?** \\
-Technical debt refers to the <strong>long-term costs</strong> incurred by taking <strong>shortcuts</strong> during implementation and deployment. These costs can hinder maintenance, scalability, and improvements over time.
-</div>
-</div>
+<img src='../../images/TD.png' alt="sym" width="100%">
 
-
+**What is Technical Debt?** <br>
+Technical debt refers to the <strong>long-term costs</strong> incurred by taking <strong>shortcuts</strong> during implementation and deployment. These costs can hinder maintenance, scalability, and improvements over time. In ML Systems, unchecked technical debt can degrade model performance, increase operational costs, and stifle
+long-term innovation (Sculley *et al.*, 2015; *Tang et al.*,2021; Tom *et al.*, 2013)
 
 This involves mining code and data across diverse models to identify refactorings that specifically target ML-related technical debt. Additionally, I aim to develop innovative refactoring techniques at both the code and data levels, integrating object-oriented practices to simplify and enhance the maintainability of complex, interdependent models. <!-- I have published some papers at different international journals and conferences with total <a href='https://scholar.google.com/citations?user=7ak4omcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 I am actively seeking a<span style="color:rgb(255,0,0);"> *2025 Summer Software Engineering Internship*</span>, or <span style="color:rgb(255,0,0);">*Summer Compnay Research Internship*</span> to apply my skills and engage in cutting-edge industry projects and deepen my understanding of the latest technological advancements. I am wishing to leverage my academic knowledge and hands-on experience to contribute to innovative solutions and drive impactful results. 
 
-I am excited about the opportunity to work in a dynamic environment where I can learn, grow, and make meaningful contributions to the team and the company. Kindly please feel free to connect with me if anything interests you. <a><img src="../../images/hello.png" alt=" " width="20"/></a>
+I am excited about the opportunity to work in a dynamic environment where I can learn, grow, and make meaningful contributions to the team and the company. Kindly please feel free to connect with me if anything interests you. <a><img src="../../images/hello.png" alt=" " width="20"/></a><br>
+
+> **Reference**
+>
+> [1] Sculley, David (2021). “Technical Debt in ML: A Data-Centric View”. In: Advances in neural information processing systems.
+> [2] Sculley, David, Gary Holt, Daniel Golovin, Eugene Davydov, *et al*. (2015). “Hidden technical debt in machine learning systems”. In:Advances in neural information processing systems.
+> [3] Tang, Yiming, Raffi Khatchadourian, Mehdi Bagherzadeh, Rhia Singh, Ajani Stewart, and Anita Raja (2021). “An empirical study of refactorings and technical debt in machine learning systems”.In: 2021 IEEE/ACM 43rd ICSE.
+> Tom, Edith, Aybüke Aurum, and Richard Vidgen (2013). “An exploration of technical debt”. In: Journal of Systems and Systems and Software.
 
 <div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>
 
