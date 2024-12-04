@@ -1,5 +1,5 @@
 # <a><img src="../../images/happy.gif" width="30" alt="img"></a> News
-- *2024.12*:  Our Poster *"Towards Combating Data Technical Debt in Machine Learning Systems: A Survey"* is accepted by AI @ CUNY, Dec. 2, 2024 
+- *2024.12*:  Poster for our on-going project *"Towards Combating Data Technical Debt in Machine Learning Systems: A Survey"* is accepted by and presented at 2024 Dec. 2nd [AI@CUNY workshop](https://docs.google.com/forms/d/e/1FAIpQLScjq4j00xG2zSs0dZ05glHrCOU2GsR0Av1ZK1v_Y3NcsOj7nQ/viewform)!
 
 
 <!--
