@@ -25,14 +25,6 @@ I am particularly focused on applying Software Engineering methodologies to addr
 Technical debt refers to the <strong>long-term costs</strong> incurred by taking <strong>shortcuts</strong> during implementation and deployment. These costs can hinder maintenance, scalability, and improvements over time.
 </div>
 </div>
-<div class='paper-box'>
-	<div class='paper-box-image'>
-		<div>
-			<div class="badge">Arxiv 2024</div>
-			<img src='../../images/llmrv.png' alt="sym" width="100%">
-		</div>
-	</div>
-	<div class='paper-box-text' markdown="1">
 
 
 
