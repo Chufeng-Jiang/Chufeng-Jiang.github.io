@@ -21,8 +21,8 @@ main:
   - title: "Annotated Bibliography"
     url: "/annotated_Bibliography/"
 
-  - title: "Moments"
-    url: "/#-moments" 
+  - title: "System Design"
+    url: "/System_Design/"
     
   - title: "Life Story"
     url: "/story/" # 重定向开一个新页面，在_pages下新建md文档
