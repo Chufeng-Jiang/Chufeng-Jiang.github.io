@@ -1,7 +1,7 @@
 ---
 
-permalink: /System_Designs/
-title: "System Designs"
+permalink: /System_Design/
+title: "System Design"
 
 author_profile: true
 redirect_from: 
@@ -41,7 +41,7 @@ redirect_from:
 
 
 
-# System Designs
+# System Design
 
 <!-- <div style="font-size: 28px; font-weight: bold;">
   <a href="https://www.linkedin.com/pulse/places-my-heart-acknowledgements-28th-aug-2024-chufeng-beza-jiang-ummse/" style="font-size: 16px; font-weight: bold;">PLACES IN MY HEART - ACKNOWLEDGEMENTS (28th Aug, 2024)</a>
