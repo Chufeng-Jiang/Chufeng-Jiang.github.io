@@ -1,8 +1,14 @@
+<!--
+
+
+
+
+
 # <a><img src="../../images/happy.gif" width="30" alt="img"></a> News
 
 
 
-<!--
+
 
 *2024.06*:  One paper *"Mixup-CLIPood: Robust Domain Generalization for Multi-modal Object Recognition"* is accepted by the 5th International Conference on Artificial Intelligence and Electromechanical Automation.
 

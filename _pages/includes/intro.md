@@ -10,10 +10,12 @@ I am a 1st year CS PhD student at ***The City University of New York***, where I
 
 My research interests lie in:
 <div>
-    <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">1.Technical Debt <span style="color:rgb(255,0,0);">  (Explanation is provided below)</span>;</li> 
+    <!-- <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">1.Technical Debt <span style="color:rgb(255,0,0);">  (Explanation is provided below)</span>, currently focused on data debt in ML Systems;</li> -->
+    <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">1.Technical Debt, currently focused on data debt in ML Systems;</li> 
     <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">2.Software Engineering and Programming Language;</li>
     <li style="list-style-type: none; margin-bottom: 10px; padding-left: 25%; font-weight: bold;">3.Machine Learning System.</li>
 </div>
+
 
 I am particularly focused on applying Software Engineering methodologies to address Technical Debt in Machine Learning Systems.
 

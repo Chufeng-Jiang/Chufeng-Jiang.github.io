@@ -1,6 +1,6 @@
 # 📔 Posters
 
-Poster “**Towards Combating Data Technical Debt in Machine Learning Systems: A Survey**”, *Chufeng Jiang and Raffi Khatchadourian*,  was accepted and presented at AI@ CUNY Workshop (Dec 2, 2024) .
+Poster “**Towards Combating Data Technical Debt in Machine Learning Systems: A Survey**”, *Chufeng Jiang and Raffi Khatchadourian*,  was accepted and presented at AI@ CUNY Workshop (Dec 2, 2024).
 
 # 📝 Publications 
 
