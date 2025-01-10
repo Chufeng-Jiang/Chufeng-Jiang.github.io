@@ -17,17 +17,12 @@
 - *2023.09 - 2024.08*, Master of Business Administration, *San Francisco Bay University*.
   - *<span style="color:gray; font-size:0.8em;">Supervisor: Dr. Flora Chu</span>*
   - *<span style="color:gray; font-size:0.8em;">Business Plan and Simulation: EmpoweredU Co. Ltd -  A Social Emotional Learning Platform in USA </span>*
-  
 - *2014.12 - 2019.09*, Bachelor of Science in Applied Accounting, *Oxford Brookes University*.
-  
   - *<span style="color:gray; font-size:0.8em;">Joint degree with ACCA; Mentor: Ms. Ying Ju (ICF ACC Coach)</span>*
   - *<span style="color:gray; font-size:0.8em;">Thesis: An Evaluation of the Business and Financial Performance of China Shenhua Energy Company Limited Between 1st January 2015 and 31st December 2017</span>*
-  
-  <!-- *2013.09 - 2017.06*, Bachelor of Management in Accounting *(ACCA)*,  *Hunan University*.-->
-  
-  <!--*<span style="color:gray; font-size:0.8em;">Advisor: Dr. Yanyan Jiang</span>*-->
-  
-  <!--*<span style="color:gray; font-size:0.8em;">Thesis:     The Application of Big Data in Business Analysis</span>* -->
+- *2013.09 - 2017.06*, Bachelor of Management in Accounting *(ACCA)*,  *Hunan University*.
+  - *<span style="color:gray; font-size:0.8em;">Advisor: Dr. Yanyan Jiang</span>*
+  - *<span style="color:gray; font-size:0.8em;">Thesis:     The Application of Big Data in Business Analysis</span>* 
 
 # 💬 Invited Talks
 - *2024.05*, Meet with external Review Team from Ministry of Education/Commission for Academic Accreditation (CAA) in Dubai, *University of Birmingham Dubai*.
