@@ -19,7 +19,7 @@ My research interests lie in:
 
 I am particularly focused on applying Software Engineering methodologies to address Technical Debt in Machine Learning Systems.
 
-<img src='../../images/TD.png' alt="sym" width="60%">
+<img src='../../images/TD.png' alt="sym" width="100%">
 
 **What is Technical Debt?** <br>
 Technical debt refers to the <strong>long-term costs</strong> incurred by taking <strong>shortcuts</strong> during implementation and deployment. These costs can hinder maintenance, scalability, and improvements over time. In ML Systems, unchecked technical debt can degrade model performance, increase operational costs, and stifle
