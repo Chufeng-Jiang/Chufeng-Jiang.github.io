@@ -9,8 +9,8 @@ main:
 #  - title: "Honors and Awards"
 #    url: "/#-honors-and-awards"
 
-#  - title: "Educations"
-#    url: "/#-educations"
+  - title: "Educations"
+    url: "/#-educations"
 
 #  - title: "Work Experience"
 #    url: "/#-work-experience"
@@ -18,11 +18,11 @@ main:
   - title: "Acknowledgements"
     url: "/acknowledgements/"
     
-  - title: "Annotated Bibliography"
-    url: "/annotated_Bibliography/"
+#  - title: "Annotated Bibliography"
+#    url: "/annotated_Bibliography/"
 
-  - title: "System Design"
-    url: "/System_Design/"
+#  - title: "System Design"
+#    url: "/System_Design/"
     
   - title: "Life Story"
     url: "/story/" # 重定向开一个新页面，在_pages下新建md文档
