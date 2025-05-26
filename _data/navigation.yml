@@ -18,14 +18,14 @@ main:
   - title: "Acknowledgements"
     url: "/acknowledgements/"
     
-#  - title: "Annotated Bibliography"
-#    url: "/annotated_Bibliography/"
+  - title: "枫枫 With Her CP"
+    url: "https://burly-crab-66d.notion.site/Her-Constraint-Programming-1fe52df60c5180319544d4143ba69ae2"
 
 #  - title: "System Design"
 #    url: "/System_Design/"
     
-  - title: "Life Story"
-    url: "/story/" # 重定向开一个新页面，在_pages下新建md文档
+#  - title: "Life Story"
+#    url: "/story/" # 重定向开一个新页面，在_pages下新建md文档
     
-  - title: "Ashes of Time"
-    url: "/movie/" 
+#  - title: "Ashes of Time"
+#    url: "/movie/" 
