@@ -2,7 +2,7 @@ My name is <span style="font-family: Century Schoolbook;color:rgb(112,128,144);"
 
 <div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>
 
-I am a 2nd year CS PhD student at ***The City University of New York***, where I am advised by **[Dr. Neng-fa Zhou](https://www.sci.brooklyn.cuny.edu/~zhou/)**.  Concurrently, I am also pursuing an MS in Computer Science at ***The University of Texas at Austin***.
+I am a 2nd year CS PhD student at ***The City University of New York***, where I am advised by **[Dr. Neng-Fa Zhou](https://www.sci.brooklyn.cuny.edu/~zhou/)**.  Concurrently, I am also pursuing an MS in Computer Science at ***The University of Texas at Austin***.
 
 I am actively seeking a<span style="color:rgb(255,0,0);"> *2026 Summer Software Engineering Internship*</span>, or <span style="color:rgb(255,0,0);">*Research Internship*</span> to apply my skills and engage in cutting-edge industry projects and deepen my understanding of the latest technological advancements. I am wishing to leverage my academic knowledge and hands-on experience to contribute to innovative solutions and drive impactful results.
 
