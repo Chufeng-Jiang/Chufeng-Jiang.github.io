@@ -12,9 +12,10 @@ My research interests lie in:
 <div>
     <!-- <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">1.Technical Debt <span style="color:rgb(255,0,0);">  (Explanation is provided below)</span>, currently focused on data debt in ML Systems;</li> -->
     <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">1.Constraint Programming;</li> 
-    <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">2.Deep Learning;</li>
+    <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">2.Machine Learning;</li>
     <li style="list-style-type: none; margin-bottom: 10px; padding-left: 25%; font-weight: bold;">3.Compilers for High-Level Languages.</li>
 </div>
+
 
 
 <div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>
