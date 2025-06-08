@@ -15,7 +15,7 @@ My research interests lie in:
     <li style="list-style-type: none; margin-bottom: 10px; padding-left: 25%; font-weight: bold;">3.Compilers for High-Level Languages.</li>
 </div>
 
-
+---
 
 
 <div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>
@@ -24,6 +24,6 @@ I obtained my Master of Science in Computer Science (Bridge Program) in 2022 fro
 
 In addition, I am awarded an MBA degree in 2024 from *San Francisco Bay University*, advised by [Dr. Flora Chu](https://www.sfbu.edu/academics/faculty/business), and completed my Bachelor of Management in Accounting (ACCA) in 2017 from *Hunan University*, advised by [Dr. Yanyan Jiang](http://grzy.hnu.edu.cn/site/index/jiangyanyan) along with a Bachelor of Science in Applied Accounting in 2019 from *Oxford Brookes University*, mentored by [Ms. Ying Ju (ICF ACC Coach)](https://mp.weixin.qq.com/s/ixaDwDDQntNm-936hc-HnA). 
 
-<div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>
-
 During 2017.07 - 2020.10, I worked for different ***<span style="color:rgb(0,100,0);">China Foreign Infrastructure Aid Projects</span>*** in  Africa countries such as **Ethiopia, Kenya, Nigeria**, where I participated in the construction of Railways, Airports, Hospitals, and other facilities. 
+
+---
