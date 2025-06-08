@@ -2,9 +2,11 @@ My name is <span style="font-family: Century Schoolbook;color:rgb(112,128,144);"
 
 <div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>
 
-I am a 2nd year CS PhD student at ***The City University of New York***, where I am advised by **[Dr. Neng-Fa Zhou](https://www.sci.brooklyn.cuny.edu/~zhou/)**.  Concurrently, I am also pursuing an MS in Computer Science at ***The University of Texas at Austin***.
+I am a 2nd year CS PhD student at ***The City University of New York***, where I am advised by **[Dr. Neng-Fa Zhou](https://www.sci.brooklyn.cuny.edu/~zhou/)**.  
 
-I am actively seeking a<span style="color:rgb(255,0,0);"> *2026 Summer Software Engineering Internship*</span>, or <span style="color:rgb(255,0,0);">*Research Internship*</span> to apply my skills and engage in cutting-edge industry projects and deepen my understanding of the latest technological advancements. I am wishing to leverage my academic knowledge and hands-on experience to contribute to innovative solutions and drive impactful results.
+Concurrently, I am also pursuing an MS in Computer Science at ***The University of Texas at Austin***.
+
+<!-- I am actively seeking a<span style="color:rgb(255,0,0);"> *2026 Summer Software Engineering Internship*</span>, or <span style="color:rgb(255,0,0);">*Research Internship*</span> to apply my skills and engage in cutting-edge industry projects and deepen my understanding of the latest technological advancements. I am wishing to leverage my academic knowledge and hands-on experience to contribute to innovative solutions and drive impactful results.-->
 
 <!--I am excited about the opportunity to work in a dynamic environment where I can learn, grow, and make meaningful contributions to the team and the company. Kindly please feel free to connect with me if anything interests you. <a><img src="../../images/hello.png" alt=" " width="20"/></a><br> -->
 
@@ -24,4 +26,8 @@ I obtained my Master of Science in Computer Science (Bridge Program) in 2022 fro
 
 In addition, I am awarded an MBA degree in 2024 from *San Francisco Bay University*, advised by [Dr. Flora Chu](https://www.sfbu.edu/academics/faculty/business), and completed my Bachelor of Management in Accounting (ACCA) in 2017 from *Hunan University*, advised by [Dr. Yanyan Jiang](http://grzy.hnu.edu.cn/site/index/jiangyanyan) along with a Bachelor of Science in Applied Accounting in 2019 from *Oxford Brookes University*, mentored by [Ms. Ying Ju (ICF ACC Coach)](https://mp.weixin.qq.com/s/ixaDwDDQntNm-936hc-HnA). 
 
-During 2017.07 - 2020.10, I worked for different ***<span style="color:rgb(0,100,0);"><u>China Foreign Infrastructure Aid Projects</u></span>*** in  Africa countries such as **Ethiopia, Kenya, Nigeria**, where I participated in the construction of Railways, Airports, Hospitals, and other facilities. 
+<div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>
+
+During 2017.07 - 2020.10, I worked for different ***<span style="color:rgb(0,100,0);">China Foreign Infrastructure Aid Projects</span>*** in  Africa countries such as **Ethiopia, Kenya, Nigeria**, where I participated in the construction of Railways, Airports, Hospitals, and other facilities. 
+
+I regard Nigeria as my second home country because it has profoundly reshaped my personality, values, and worldview, helping me develop a new perspective on life in my early twenties.
