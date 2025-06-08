@@ -50,8 +50,7 @@
 
 
 # 💻 Work Experience
-- *2025.04 - 2029.06*, <span style="color:red;">*(Expected)*</span>, Research Assistant, *Brooklyn College*,  NYC, United States.
-- *2025.08 - 2029.05*, <span style="color:red;">*(Expected)*</span>, Adjunct Lecturer / Teaching Assistant, *Hunter College*,  NYC, United States.
+- *2025.04 - Current*, Research Assistant, *Brooklyn College*,  NYC, United States.
 - *2024.08 - 2025.04*, Research Assistant, *Hunter College*,  NYC, United States.
 - *2022.09 - 2023.05*, Software Engineer / Co-founder, [*Sunset Oasis Information Consultant Center*](https://www.linkedin.com/company/96330400/admin/dashboard/),  Changsha, China.
 - *2017.12 - 2020.09*, Assistant Finance Manager, [*China Civil Engineering Construction Corporation Nigeria Limited*](http://www.ccecc.com.cn/col/col7669/index.html), Abeokuta, Nigeria.
