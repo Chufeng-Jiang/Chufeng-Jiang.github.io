@@ -1,3 +1,7 @@
+# 👩‍💻 Services
+
+- AAAI'39 Undergraduate Consortium (2025) : Program Committee
+
 # 💬 Invited Talks
 
 - *2024.05*, Meet with external Review Team from Ministry of Education/Commission for Academic Accreditation (CAA) in Dubai, *University of Birmingham Dubai*.
