@@ -1,6 +1,6 @@
 My name is <span style="font-family: Century Schoolbook;color:rgb(112,128,144);">Chufeng Jiang</span> <span style="font-family: SimSun;">(蒋楚枫)</span>, the pronunciation is <span style="font-family: Century Schoolbook;color:rgb(112,128,144);">[tʃu:fɛŋ]-[dʒɑːŋ]</span>. I will be happy if you call me "<span style="font-family: Century Schoolbook;color:rgb(112,128,144);">Beza</span>"(በዛ), the pronunciation is <span style="font-family: Century Schoolbook;color:rgb(112,128,144);">[beɪ za]</span>, an Ethiopian Christian name chosen by my colleagues, which means <span style="font-family: Century Schoolbook; color:rgb(112,128,144);">"*good luck*"</span> and "<span style="font-family: Century Schoolbook; color:rgb(112,128,144);">*the gift from the God*</span>". I love this name so much because I am always on a lucky streak!
 
-<div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>
+---
 
 I am a 2nd year CS PhD student at ***The City University of New York***, where I am advised by **[Dr. Neng-Fa Zhou](https://www.sci.brooklyn.cuny.edu/~zhou/)**.  Concurrently, I am also pursuing an MS in Computer Science at ***The University of Texas at Austin***.
 
@@ -17,8 +17,7 @@ My research interests lie in:
 
 ---
 
-
-<div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>
+<!-- <div style="text-align: left; color:rgb(112,128,144);">   ------------------- </div>-->
 
 I obtained my Master of Science in Computer Science (Bridge Program) in 2022 from *University of Birmingham (**Dubai**)*, co-advised by [Dr. Mian M. Hamayun](https://www.birmingham.ac.uk/staff/profiles/dubai/hamayun-mian) and [Dr. Ahmad Ibrahim](https://www.cs.bham.ac.uk/~ibrahima/). I received my Second Bachelor of Engineering in Computer Science and Technology in 2023 from *Nankai University*, advised by [Dr. Haiwei Zhang](https://dbis.nankai.edu.cn/2023/0322/c12139a506916/page.htm). 
 
