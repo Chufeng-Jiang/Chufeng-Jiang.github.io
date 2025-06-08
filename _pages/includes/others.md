@@ -1,3 +1,7 @@
+# 💬 Invited Talks
+
+- *2024.05*, Meet with external Review Team from Ministry of Education/Commission for Academic Accreditation (CAA) in Dubai, *University of Birmingham Dubai*.
+
 # 📖 Educations
 【Computer Science】
 - *2024.09 - 2029.06*, <span style="color:red;">*(Expected)*</span>, Doctor of Philosophy in Computer Science, *The City University of New York*. 
@@ -40,12 +44,12 @@
   
   <!--*<span style="color:gray; font-size:0.8em;">Thesis:     The Application of Big Data in Business Analysis</span>* -->
 
-# 💬 Invited Talks
-- *2024.05*, Meet with external Review Team from Ministry of Education/Commission for Academic Accreditation (CAA) in Dubai, *University of Birmingham Dubai*.
-
 
 # 💻 Work Experience
-- *2022.09 - 2023.05*, Full-stack Software Developer, [*Sunset Oasis Information Consultant Center*](https://www.linkedin.com/company/96330400/admin/dashboard/),  Changsha, China.
+- *2025.04 - 2029.06*, <span style="color:red;">*(Expected)*</span>, Research Assistant, *Brooklyn College*,  NYC, United States.
+- *2025.08 - 2029.05*, <span style="color:red;">*(Expected)*</span>, Adjunct Lecturer / Teaching Assistant, *Hunter College*,  NYC, United States.
+- *2024.08 - 2025.04*, Research Assistant, *Hunter College*,  NYC, United States.
+- *2022.09 - 2023.05*, Software Engineer / Co-founder, [*Sunset Oasis Information Consultant Center*](https://www.linkedin.com/company/96330400/admin/dashboard/),  Changsha, China.
 - *2017.12 - 2020.09*, Assistant Finance Manager, [*China Civil Engineering Construction Corporation Nigeria Limited*](http://www.ccecc.com.cn/col/col7669/index.html), Abeokuta, Nigeria.
 - *2017.10 - 2017.12*, Financial Accountant, *[China Railway Construction Engineering Group: CRJE (EAST AFRICA) LTD](http://ydyl.cacem.com.cn/photos/EB5F603D_15509C5D.pdf)*, Nairobi, Kenya.
 - *2017.08 - 2017.10*, Accountant, [*China National Chemical Communications Construction Group Co., LTD*](http://zhxjj.com.cn/index.php/page/index/id/124.html), Addis Ababa, Ethiopia.
