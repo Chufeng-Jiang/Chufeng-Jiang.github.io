@@ -12,10 +12,10 @@
 
   <!-- *<span style="color:gray; font-size:0.8em;">Advisor: Dr. Raffi Khatchadourian</span>* -->
 
-- *2024.01 - 2027.06*, <span style="color:red;">*(Expected)*</span>, Master of Science in Computer Science, *University of Texas at Austin*.
-  
+  <!--*2024.01 - 2027.06*, <span style="color:red;">*(Expected)*</span>, Master of Science in Computer Science, *University of Texas at Austin*.-->
+
   <!--  *<span style="color:gray; font-size:0.8em;">Part-time Online Program; Advisor: N/A</span>*-->
-  
+
 - *2020.09 - 2023.06*, Bachelor of Engineering in Computer Science and Technology, *Nankai University*.
   
   <!--  <span style="color:gray; font-size:0.8em;">*Associate to Bachelor's Degree Program*</span><span style="color:gray; font-size:0.8em;font-family: SimSun;">;</span> *<span style="color:gray; font-size:0.8em;">Advisor: Dr. Haiwei Zhang</span>*-->
