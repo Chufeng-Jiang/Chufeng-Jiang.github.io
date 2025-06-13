@@ -8,12 +8,15 @@ I am a 2nd year CS PhD student at ***The City University of New York***, where I
 
 <!--I am excited about the opportunity to work in a dynamic environment where I can learn, grow, and make meaningful contributions to the team and the company. Kindly please feel free to connect with me if anything interests you. <a><img src="../../images/hello.png" alt=" " width="20"/></a><br> -->
 
-My research interests lie in:
+I'm into a few exciting research areas:
 <div>
-    <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">1.Constraint Programming (using <a href="https://picat-lang.org/">Picat</a>);</li> 
+    <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">1.Constraint Programming ( I use <a href="https://picat-lang.org/">Picat</a> );</li> 
     <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">2.Machine Learning for Combinatorial Optimization;</li>
     <li style="list-style-type: none; margin-bottom: 10px; padding-left: 25%; font-weight: bold;">3.Compilers for High-Level Languages.</li>
 </div>
+
+If you'd like to chat or discuss something, feel free to book an appointment via email or through my <a href='https://outlook.office.com/book/ChufengBezasMeetingAppointment@GradCenter.cuny.edu/?ismsaljsauthenabled'>Online Booking Links</a>.
+
 
 ---
 
