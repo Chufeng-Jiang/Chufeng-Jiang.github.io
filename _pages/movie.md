@@ -26,16 +26,16 @@ redirect_from:
   <a href="https://www.linkedin.com/pulse/places-my-heart-acknowledgements-28th-aug-2024-chufeng-beza-jiang-ummse/" style="font-size: 16px; font-weight: bold;">PLACES IN MY HEART - ACKNOWLEDGEMENTS (28th Aug, 2024)</a>
 </div> -->
 
-> The Movie can be found at [Ashes of Time Redux | Full Movie | Piece Of The Action](https://www.youtube.com/watch?v=t0PTHlSCJl0)
+> The Movie can be found at [Ashes of Time Redux | Full Movie | Piece Of The Action](https://www.youtube.com/watch?v=t0PTHlSCJl0) 
 
 
 ![image-20241117121329991](assets/image-20241117121329991.png)
 
-<div style="text-align: left; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);"> Original Version in Chinese:<br><br> </div>
+
 
 <span style="font-family: SimSun;">这是我最喜欢的电影，我最喜欢的人物是洪七。</span>
 
-<span style="font-family: SimSun;">我感觉我的个性和某些观念不仅受到了社会的影响，还被一些文学作品塑造出来的形象所影响，比如《东邪西毒》里的洪七。其实, 我的PhD导师和洪七也很像...</span>
+<span style="font-family: SimSun;">其实, 我的PhD导师和洪七也很像...</span>
 
 <span style="font-family: SimSun;">洪七是一个简单直接的人，而王家卫墨镜之下看见的这个江湖太复杂，**复杂到只要你足够简单，就可以笑到最后**。</span>
 
