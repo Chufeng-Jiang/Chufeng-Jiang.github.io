@@ -4,8 +4,6 @@ permalink: /acknowledgements/
 title: "Acknowledgements"
 
 author_profile: true
-redirect_from: 
-  - /acknowledgements/
 ---
 <!-- {% include_relative subnav.md %}-->
 
