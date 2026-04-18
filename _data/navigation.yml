@@ -16,7 +16,7 @@ main:
 #    url: "https://chufeng-jiang.github.io/#-work-experience"
     
   - title: "Acknowledgements"
-    url: "https://chufeng-jiang.github.io/acknowledgements/"
+    url: "/acknowledgements/"
     
 #  - title: "阿枫 & Her CP"
 #    url: "https://www.notion.so/chufeng-jiang/Her-Constraint-Programming-1fe52df60c5180319544d4143ba69ae2"
