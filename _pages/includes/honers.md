@@ -8,6 +8,8 @@
 
 **【Scholarships and Fellowships】**
 
+- *2026.04*,  [ERI/ PS2 Summer Public Research Fellows](https://centerforthehumanities.org/2026-eri-ps2-summer-public-research-fellows/), *The City University of New York*.
+
 - *2024.09*,  [Graduate Center Fellowship](https://www.gc.cuny.edu/fellowships-and-financial-aid/doctoral-student-funding/prospective-doctoral-student-funding#graduate-center-fellowship-gcf), *The City University of New York*.
 
 - *2023.09*,  [Presidential Scholarship](https://www.sfbu.edu/admissions/scholarships/graduate-scholarships), *San Francisco Bay University*.

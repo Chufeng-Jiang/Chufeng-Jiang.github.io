@@ -1,28 +1,26 @@
 # 👩‍💻 Services
 
-- AAAI'39 Undergraduate Consortium (2025) : Program Committee
-
-# 💬 Invited Talks
-
-- *2024.05*, Meet with external Review Team from Ministry of Education/Commission for Academic Accreditation (CAA) in Dubai, *University of Birmingham Dubai*.
+- Program Committee:  AAAI'40 Undergraduate Consortium (2026) , PEARC'26 Tutorials and Workshop, SITE 2026, AAAI'39 Undergraduate Consortium (2025) , CONVERSATIONS 2025
 
 # 📖 Educations
 【Computer Science】
 - *2024.09 - 2029.06*, <span style="color:red;">*(Expected)*</span>, Doctor of Philosophy in Computer Science, *The City University of New York*. 
 
+- *2023.01 - 2026.12*, <span style="color:red;">*(Expected)*</span>, Master of Science in Computer Science, *University of Texas at Austin*.
+
   <!-- *<span style="color:gray; font-size:0.8em;">Advisor: Dr. Raffi Khatchadourian</span>* -->
 
-  <!--*2024.01 - 2027.06*, <span style="color:red;">*(Expected)*</span>, Master of Science in Computer Science, *University of Texas at Austin*.-->
+  
 
   <!--  *<span style="color:gray; font-size:0.8em;">Part-time Online Program; Advisor: N/A</span>*-->
 
-- *2020.09 - 2023.06*, Bachelor of Engineering in Computer Science and Technology, *Nankai University*.
-  
   <!--  <span style="color:gray; font-size:0.8em;">*Associate to Bachelor's Degree Program*</span><span style="color:gray; font-size:0.8em;font-family: SimSun;">;</span> *<span style="color:gray; font-size:0.8em;">Advisor: Dr. Haiwei Zhang</span>*-->
-  
+
   <!-- *<span style="color:gray; font-size:0.8em;">Capestone Project:     [SSM: Student-Information-Management-System](https://github.com/Chufeng-Jiang/SSM_Student-Information-Management-System)</span>*-->
-  
+
 - *2021.09 - 2022.09*, Master of Science in Computer Science, *University of Birmingham (Dubai).  <span style="color:gray;">(Bridge Program)</span>*
+  
+- *2020.09 - 2023.06*, Bachelor of Engineering in Computer Science and Technology, *Nankai University*.
   
   <!--*<span style="color:gray;font-size:0.8em;">Advisor: Dr. Mian M. Hamayun</span>*-->
   
@@ -49,10 +47,11 @@
   <!--*<span style="color:gray; font-size:0.8em;">Thesis:     The Application of Big Data in Business Analysis</span>* -->
 
 
-# 💻 Work Experience
-- *2025.04 - Current*, Research Assistant, *Brooklyn College*,  NYC, United States.
-- *2024.08 - 2025.04*, Research Assistant, *Hunter College*,  NYC, United States.
-- *2022.09 - 2023.05*, Software Engineer / Co-founder, [*Sunset Oasis Information Consultant Center*](https://www.linkedin.com/company/96330400/admin/dashboard/),  Changsha, China.
+# 🌆 Work Experience
+- *2026.01 - Current*, Adjunct Lecturer, *Bronx Community College, Medgar Evers College*,  NY, United States.
+- *2025.04 - Current*, Research Assistant, *Brooklyn College*,  NY, United States.
+- *2024.08 - 2025.04*, Research Assistant, *Hunter College*,  NY, United States.
+- *2022.09 - 2023.05*, Software Engineer, [*Sunset Oasis Information Consultant Center*](https://www.linkedin.com/company/96330400/admin/dashboard/),  Changsha, China.
 - *2017.12 - 2020.09*, Assistant Finance Manager, [*China Civil Engineering Construction Corporation Nigeria Limited*](http://www.ccecc.com.cn/col/col7669/index.html), Abeokuta, Nigeria.
 - *2017.10 - 2017.12*, Financial Accountant, *[China Railway Construction Engineering Group: CRJE (EAST AFRICA) LTD](http://ydyl.cacem.com.cn/photos/EB5F603D_15509C5D.pdf)*, Nairobi, Kenya.
 - *2017.08 - 2017.10*, Accountant, [*China National Chemical Communications Construction Group Co., LTD*](http://zhxjj.com.cn/index.php/page/index/id/124.html), Addis Ababa, Ethiopia.
