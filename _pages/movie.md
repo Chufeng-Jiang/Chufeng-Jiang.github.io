@@ -4,8 +4,6 @@ permalink: /movie/
 title: "Ashes of Time"
 
 author_profile: true
-redirect_from: 
-  - /movie/
 ---
 
 
