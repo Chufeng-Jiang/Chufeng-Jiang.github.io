@@ -5,7 +5,7 @@ title: "Acknowledgements"
 
 author_profile: true
 redirect_from: 
-  - /about
+  - /acknowledgements/
 ---
 <!-- {% include_relative subnav.md %}-->
 

@@ -5,7 +5,7 @@ title: "Ashes of Time"
 
 author_profile: true
 redirect_from: 
-  - /about
+  - /movie/
 ---
 
 
@@ -14,8 +14,6 @@ redirect_from:
 <!-- <div style="font-size: 28px; font-weight: bold;">
   <a href="https://www.linkedin.com/pulse/places-my-heart-acknowledgements-28th-aug-2024-chufeng-beza-jiang-ummse/" style="font-size: 16px; font-weight: bold;">PLACES IN MY HEART - ACKNOWLEDGEMENTS (28th Aug, 2024)</a>
 </div> -->
-
-The Movie can be found at: **[Ashes of Time Redux | Full Movie | Piece Of The Action](https://www.youtube.com/watch?v=t0PTHlSCJl0)** .
 
 
 ![image-20241117121329991](assets/image-20241117121329991.png)
