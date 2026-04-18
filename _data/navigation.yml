@@ -3,14 +3,14 @@ main:
 #  - title: "News"
 #    url: "https://chufeng-jiang.github.io/#-news"
 
-  - title: "Publications"
-    url: "https://chufeng-jiang.github.io/#-publications"
+#  - title: "Publications"
+#    url: "https://chufeng-jiang.github.io/#-publications"
 
 #  - title: "Honors and Awards"
 #    url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "https://chufeng-jiang.github.io/#-educations"
+#  - title: "Educations"
+#    url: "https://chufeng-jiang.github.io/#-educations"
 
 #  - title: "Work Experience"
 #    url: "https://chufeng-jiang.github.io/#-work-experience"
@@ -18,8 +18,8 @@ main:
   - title: "Acknowledgements"
     url: "https://chufeng-jiang.github.io/acknowledgements/"
     
-  - title: "阿枫 & Her CP"
-    url: "https://www.notion.so/chufeng-jiang/Her-Constraint-Programming-1fe52df60c5180319544d4143ba69ae2"
+#  - title: "阿枫 & Her CP"
+#    url: "https://www.notion.so/chufeng-jiang/Her-Constraint-Programming-1fe52df60c5180319544d4143ba69ae2"
 
 #  - title: "System Design"
 #    url: "/System_Design/"
@@ -27,5 +27,5 @@ main:
 #  - title: "Life Story"
 #    url: "/story/" # 重定向开一个新页面，在_pages下新建md文档
     
-#  - title: "Ashes of Time"
-#    url: "/movie/" 
+  - title: "Ashes of Time"
+    url: "/movie/" 

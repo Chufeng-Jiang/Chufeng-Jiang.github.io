@@ -55,8 +55,6 @@ With his wife, he roamed the martial world, helping others while taking lives. H
 
 <div style="text-align: left; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);"><i>"If it felt right, I'd do it." <br>——Hong Qi</i> </div> <br><br>
 
-PS：I want to introduce another **excerpt** to you, which is unrelated to this movie, and I like it very much. You can find it at the end of the section titled 'The Nerd' on [https://chufeng-jiang.github.io/story/nerd/](https://chufeng-jiang.github.io/story/nerd/)
-
 ----------------------------------
 
 
@@ -88,8 +86,6 @@ PS：I want to introduce another **excerpt** to you, which is unrelated to this 
 <span style="font-family: KaiTi_GB2312 ;">“我觉得对我就会去做。”</span>
 
 ​                               <span style="font-family: KaiTi_GB2312 ;">——By 洪七<br><br></span>
-
-<span style="font-family: SimSun;">PS：我想向大家介绍另一个**摘录**，它与这部电影无关，但我很喜欢它，你可以在“书呆子”章节的末尾找到它：[https://chufeng-jiang.github.io/story/nerd/](https://chufeng-jiang.github.io/story/nerd/)</span>
 
 
 
