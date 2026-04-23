@@ -1,3 +1,13 @@
+
+
+# 👩‍🏫 Teaching
+
+- Medgar Evers College: 
+  - CIS 310 Computer Graphics (2026Spring, 2026Fall).
+  - CIS 400 Database Management Systems (2026Fall).
+- Bronx Community College: 
+  - DAT 47 Java Programming (2026Spring, 2026Fall)
+
 # 👩‍💻 Services
 
 - Program Committee:  AAAI'40 Undergraduate Consortium (2026) , PEARC'26 Tutorials and Workshop, SITE 2026, AAAI'39 Undergraduate Consortium (2025) , CONVERSATIONS 2025
