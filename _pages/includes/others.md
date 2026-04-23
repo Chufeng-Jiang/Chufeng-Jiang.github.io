@@ -2,10 +2,10 @@
 
 # 👩‍🏫 Teaching
 
-- Medgar Evers College: 
+- Medgar Evers College, CUNY: 
   - CIS 310 Computer Graphics (2026Spring, 2026Fall).
   - CIS 400 Database Management Systems (2026Fall).
-- Bronx Community College: 
+- Bronx Community College, CUNY: 
   - DAT 47 Java Programming (2026Spring, 2026Fall)
 
 # 👩‍💻 Services
