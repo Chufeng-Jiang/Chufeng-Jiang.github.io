@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chufeng (Beza) Jiang"
-description              : "奇迹枫枫：\"I am a Lucky Queen.\""
+description              : "\"I am a Lucky Queen.\""
 repository               : "Chufeng-Jiang/Chufeng-Jiang.github.io"
 google_scholar_stats_use_cdn : true
 url                      : "https://chufeng-jiang.github.io/" # 替换为您的实际 GitHub Pages URL
@@ -58,7 +58,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weixin           : "BJ3W0Oa0p7_Fr5qGoojSzw"
+  weixin           : 
   xing             :
   youtube          :
   wikipedia        :
