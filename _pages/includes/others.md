@@ -58,11 +58,10 @@
 
 
 # 🌆 Work Experience
-- *2026.01 - Current*, Adjunct Lecturer, *Bronx Community College, Medgar Evers College*,  NY, United States.
-- *2025.04 - Current*, Research Assistant, *Brooklyn College*,  NY, United States.
-- *2024.08 - 2025.04*, Research Assistant, *Hunter College*,  NY, United States.
-- *2022.09 - 2023.05*, Software Engineer, [*Sunset Oasis Information Consultant Center*](https://www.linkedin.com/company/96330400/admin/dashboard/),  Changsha, China.
-- *2017.12 - 2020.09*, Assistant Finance Manager, [*China Civil Engineering Construction Corporation Nigeria Limited*](http://www.ccecc.com.cn/col/col7669/index.html), Abeokuta, Nigeria.
-- *2017.10 - 2017.12*, Financial Accountant, *[China Railway Construction Engineering Group: CRJE (EAST AFRICA) LTD](http://ydyl.cacem.com.cn/photos/EB5F603D_15509C5D.pdf)*, Nairobi, Kenya.
-- *2017.08 - 2017.10*, Accountant, [*China National Chemical Communications Construction Group Co., LTD*](http://zhxjj.com.cn/index.php/page/index/id/124.html), Addis Ababa, Ethiopia.
+- *2026.01 - Current*, Adjunct Lecturer, *Bronx Community College, Medgar Evers College, CUNY*,  NY, US.
+- *2024.04 - Current*, Research Assistant, *Graduate Center, CUNY*,  NY, US.
+- *2022.09 - 2023.05*, Software Engineer, *Sunset Oasis Information Consultant Center*,  Changsha, China.
+- *2017.12 - 2020.09*, Finance Manager, *China Civil Engineering Construction Corporation Nigeria Limited*, Abeokuta, Nigeria.
+- *2017.10 - 2017.12*, Accountant, China Railway Construction Engineering Group: CRJE (EAST AFRICA) LTD, Nairobi, Kenya.
+- *2017.08 - 2017.10*, Accountant, *Shandong Highway Corporation*, Addis Ababa, Ethiopia.
 
