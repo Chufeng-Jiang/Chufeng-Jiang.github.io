@@ -27,5 +27,3 @@
 - 【2022.10.11】I was denied an F-1 visa for my Master’s program in Computer Science.
 
 
-
-<-- 【2024.12.05】Due to the partners pursuing different career paths and settling in China, Canada, Australia, and the United States, **Sunset Oasis Consultant** has been <span style="color:BLACK; font-weight:bold; ">DISSOLVED</span> by mutual agreement. For the official notice, please refer to  <a href="https://raw.githubusercontent.com/Chufeng-Jiang/Chufeng-Jiang.github.io/refs/heads/main/_pages/assets/Notice_for_Sunset_Oasis.jpg" target="_blank">(天心) 登字(2024) 第28867号</a>. As I am currently an F1 student, business negotiations will be paused for the next few years. I will focus on my studies during this time, and any future business collaboration will be reconsidered later.  -->
