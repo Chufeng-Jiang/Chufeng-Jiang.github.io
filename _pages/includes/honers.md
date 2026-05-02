@@ -12,9 +12,9 @@
 
 - *2024.09*,  [Graduate Center Fellowship](https://www.gc.cuny.edu/fellowships-and-financial-aid/doctoral-student-funding/prospective-doctoral-student-funding#graduate-center-fellowship-gcf), *The City University of New York*.
 
-- *2023.09*,  [Presidential Scholarship](https://www.sfbu.edu/admissions/scholarships/graduate-scholarships), *San Francisco Bay University*.
+- *2023.09*,  Presidential Scholarship, *San Francisco Bay University*.
 
-- *2021.09*,  [Chancellor's Academic Merit Scholarship](https://www.birmingham.ac.uk/dubai/study/fees-and-funding/scholarships), *University of Birmingham*.
+- *2021.09*,  Chancellor's Academic Merit Scholarship, *University of Birmingham*.
 
 - *2015.09*,  Outstanding Individual Student Scholarship, *Hunan University*.
 
