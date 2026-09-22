@@ -2,20 +2,13 @@ My name is <span style="font-family: Century Schoolbook;color:rgb(112,128,144);"
 
 ---
 
-I am a 3rd  year CS PhD student at ***The City University of New York***, where I am advised by **[Dr. Neng-Fa Zhou](https://www.sci.brooklyn.cuny.edu/~zhou/)**.  I'm into a few exciting research areas:
-
-
-
-<!-- Concurrently, I am also pursuing an MS in Computer Science at ***The University of Texas at Austin***. I am actively seeking a<span style="color:rgb(255,0,0);"> *2026 Summer Software Engineering Internship*</span>, or <span style="color:rgb(255,0,0);">*Research Internship*</span> to apply my skills and engage in cutting-edge industry projects and deepen my understanding of the latest technological advancements. I am wishing to leverage my academic knowledge and hands-on experience to contribute to innovative solutions and drive impactful results.-->
-
-<!--I am excited about the opportunity to work in a dynamic environment where I can learn, grow, and make meaningful contributions to the team and the company. Kindly please feel free to connect with me if anything interests you. <a><img src="../../images/hello.png" alt=" " width="20"/></a><br> -->
-
+I am CS PhD Candidate at ***Graduate Center, The City University of New York***, where I am co-advised by **[Dr. Feng Gu](https://www.csi.cuny.edu/campus-directory/feng-gu)** (CUNY) and  **[Dr. Defu Cao](https://idevede.github.io/)** (USC).  I'm into a few exciting research areas:
 
 <div>
-    <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">1. Logic and Constraint Programming ( with <a href="https://picat-lang.org/">Picat</a> );</li> 
-    <li style="list-style-type: none; margin-bottom: 0px; padding-left: 25%; font-weight: bold;">2. Machine Learning for SAT Solving;</li>
-    <li style="list-style-type: none; margin-bottom: 10px; padding-left: 25%; font-weight: bold;">3. LLM Alignment and Reasoning.</li>
+    <li style="list-style-type: none; margin-bottom: 0px; padding-left: 15%; font-weight: bold;">1. ML Systems and LLM Inference — efficient inference, GPU acceleration, and systems optimization for LLMs;</li> 
+    <li style="list-style-type: none; margin-bottom: 0px; padding-left: 15%; font-weight: bold;">2. LLM and Agentic Systems — reliability, evaluation, and safety of autonomous AI agents</li>
 </div>
+
 
 
 ---

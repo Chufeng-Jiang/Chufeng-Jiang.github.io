@@ -1,8 +1,10 @@
 # 💫 Moments
 
-- 【2026.05.21】I passed my **Level 2** Exam at CS PhD program, CUNY.
+- 【2026.08.20】I officially advanced to **Ph.D. candidacy** in Computer Science at Graduate Center, CUNY.
 
-- 【2026.01.12】I passed my **Level 1** Exam at CS PhD program, CUNY.
+- 【2026.05.21】I passed my **Level 2 Examination** in the Computer Science Ph.D. program at the Graduate Center, CUNY.
+
+  【2026.01.12】I passed my **Level 1 Examination** in the Computer Science Ph.D. program at the Graduate Center, CUNY.
 
 - 【2024.08.28】Today is my first day of Ph.D journey, with a lot of words and emotions, and please see my acknowledgements at: [PLACES IN MY HEART - ACKNOWLEDGEMENTS (28th Aug, 2024)](https://www.linkedin.com/pulse/places-my-heart-acknowledgements-28th-aug-2024-chufeng-beza-jiang-ummse/?trackingId=wnKSVt%2FoToKIfIO9F9%2Bl4g%3D%3D)
 
@@ -25,5 +27,4 @@
 - 【2023.03.16】I’m grateful to San Francisco Bay University for awarding me a full scholarship for my MBA.
 
 - 【2022.10.11】I was denied an F-1 visa for my Master’s program in Computer Science.
-
 

@@ -5,7 +5,7 @@
 - Medgar Evers College, CUNY: 
   - CIS 310 Computer Graphics (2026Spring, 2026Fall).
     - <span style="color:red;">Students enrolled in this course are expected to bring your own laptops to class. The course will primarily focus on mesh processing and geometric modeling rather than rendering techniques.</span>
-  - CIS 400 Database Management Systems (2026Fall).
+  - CIS 101 Computer Literacy (2026Fall).
 - Bronx Community College, CUNY: 
   - DAT 47 Java Programming (2026Spring, 2026Fall)
 
@@ -15,9 +15,9 @@
 
 # 📖 Educations
 【Computer Science】
-- *2024.09 - 2029.06*, <span style="color:red;">*(Expected)*</span>, Doctor of Philosophy in Computer Science, *The City University of New York*. 
+- *2024.09 - 2027.07*, <span style="color:red;">*(Expected)*</span>, Doctor of Philosophy in Computer Science, *The City University of New York*. 
 
-- *2023.01 - 2026.12*, <span style="color:red;">*(Expected)*</span>, Master of Science in Computer Science, *University of Texas at Austin*.
+- *2024.01 - 2026.08*, <span style="color:red;"></span>, Master of Science in Computer Science, *University of Texas at Austin*.
 
   <!-- *<span style="color:gray; font-size:0.8em;">Advisor: Dr. Raffi Khatchadourian</span>* -->
 
@@ -59,6 +59,7 @@
 
 
 # 🌆 Work Experience
+- *2026.07- Current*, Backend Developer, *Prospect Equities*®,  Remote, US.
 - *2026.01 - Current*, Adjunct Lecturer, *Bronx Community College, Medgar Evers College, CUNY*,  NY, US.
 - *2024.04 - Current*, Research Assistant, *Graduate Center, CUNY*,  NY, US.
 - *2022.09 - 2023.05*, Software Engineer, *Sunset Oasis Information Consultant Center*,  Changsha, China.
