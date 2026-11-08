@@ -114,6 +114,112 @@ $$
 **Result:** The model achieves approximately 44.9%
 of the GPU's theoretical BF16 peak performance.
 
+---
+
+## KV Cache Memory Calculation
+
+### 1. Key Concepts
+
+| Term | Definition |
+| --- | --- |
+| KV Cache | Stores previously computed Key (K) and Value (V) tensors during autoregressive generation. |
+| Layers ($L$) | Number of Transformer layers. |
+| KV Heads ($H_{kv}$) | Number of Key/Value heads per layer. |
+| Head Dimension ($D$) | Number of elements in each head. |
+| Bytes per Element ($b$) | Memory per numerical element, e.g., FP16/BF16 = 2 bytes. |
+| Sequence Length ($S$) | Number of cached tokens. |
+| Batch Size ($B$) | Number of sequences. |
+
+### 2. KV Cache Memory Formula
+
+**Memory per token:**
+
+$$
+\boxed{
+M_{\text{token}}
+=
+2 \times L \times H_{kv} \times D \times b
+}
+$$
+
+**Total KV Cache Memory:**
+
+$$
+\boxed{
+\text{KV Cache Memory}
+=
+2 \times B \times S \times L \times H_{kv} \times D \times b
+}
+$$
+
+The factor of **2** represents both Key (K) and Value (V).
+
+### 3. Example: Llama-3-70B
+
+**Given:**
+
+| Parameter | Value |
+| --- | --- |
+| Transformer Layers | 80 |
+| KV Heads | 8 |
+| Head Dimension | 128 |
+| Precision | FP16/BF16 (2 bytes) |
+| Sequence Length | 8192 tokens |
+| Batch Size | 1 |
+
+**Step 1: Memory per layer per token**
+
+$$
+M_{\text{layer,token}}
+=
+2 \times 8 \times 128 \times 2
+=
+4096\ \text{bytes}
+$$
+
+**Step 2: Memory per token across all layers**
+
+$$
+M_{\text{token}}
+=
+4096 \times 80
+=
+327680\ \text{bytes}
+$$
+
+$$
+\boxed{M_{\text{token}}=320\ \text{KiB}}
+$$
+
+**Step 3: Memory for an 8192-token sequence**
+
+$$
+M_{\text{KV}}
+=
+327680 \times 8192
+=
+2684354560\ \text{bytes}
+$$
+
+$$
+\boxed{
+M_{\text{KV}}
+\approx 2.68\ \text{GB}
+=2.5\ \text{GiB}
+}
+$$
+
+### 4. Important Exam Notes
+
+- **Linear Scaling:** KV Cache memory grows linearly with sequence length and batch size.
+- **K and V:** Always multiply by 2 to account for both tensors.
+- **Precision:** FP16/BF16 = 2 bytes per element.
+- **Memory Units:** 1 GB = $10^9$ bytes; 1 GiB = $2^{30}$ bytes.
+- **GQA:** Grouped-Query Attention reduces KV Cache memory by using fewer KV heads than Query heads.
+- **Memory Budget:** The formula excludes allocator overhead, fragmentation, and model weights.
+
+
+
 
 
  <br> <br> <br> <br> <br> <br> <br> <br>
