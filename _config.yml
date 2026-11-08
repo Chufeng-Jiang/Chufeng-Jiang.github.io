@@ -95,10 +95,12 @@ exclude:
   - vendor
   - google_scholar_crawler
   - github_myprofile_updater
+  - _pages/old
+
 keep_files:
   - .git
   - .svn
-  - _pages/old
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
