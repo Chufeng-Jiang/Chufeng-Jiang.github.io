@@ -4,8 +4,7 @@ permalink: /infra/
 title: "AI Infra Review"
 
 author_profile: true
-redirect_from: 
-  - /
+
 ---
 {% include_relative subnav.md %}
 {% if site.google_scholar_stats_use_cdn %}

@@ -4,8 +4,7 @@ permalink: /infra/fundamental/
 title: "Fundamentals"
 
 author_profile: true
-redirect_from: 
-  - /about
+
 ---
 {% include_relative subnav.md %}
 
