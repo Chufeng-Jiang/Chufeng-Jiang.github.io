@@ -4,9 +4,12 @@ permalink: /infra/
 title: "AI Infra Review"
 
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 
 ---
-{% include_relative subnav.md %}
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
