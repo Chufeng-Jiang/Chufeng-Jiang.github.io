@@ -1,7 +1,7 @@
 ---
 
 permalink: /infra/fundamental/
-title: "Computer Systems Fundamentals and Performance Intuition"
+title: "Fundamentals"
 
 author_profile: true
 redirect_from: 
