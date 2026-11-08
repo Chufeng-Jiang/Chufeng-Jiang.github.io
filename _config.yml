@@ -28,11 +28,11 @@ author:
   bio0             : "Chufeng (Beza) Jiang"
   bio1             : "CS PhD Candidate"
   bio2             : #"MSCS @ UT Austin'25"
-  bio3             : "CHUFENG.JIANG29@login.cuny.edu"#"BEng in CS @ Nankai '2023"
+  bio3             : "CHUFENG.JIANG29@login.cuny.edu"#
   location         : "New York, USA"
   employer         : #
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=6i-r0JIAAAAJ&hl=en&oi=ao"
+  googlescholar    : 
   email            : #"cjiang@gradcenter.cuny.edu"
   researchgate     : #"https://www.researchgate.net/profile/Chufeng-Jiang" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 
@@ -98,6 +98,7 @@ exclude:
 keep_files:
   - .git
   - .svn
+ - _pages/old
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
