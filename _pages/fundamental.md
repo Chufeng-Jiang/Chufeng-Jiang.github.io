@@ -12,6 +12,21 @@ author_profile: true
 
 {% include_relative subnav.md %}
 
+<style>
+.page__content pre,
+.page__content pre code,
+.page__content .highlight pre,
+.page__content .highlight pre code {
+    font-size: 16px !important;
+    line-height: 1.65 !important;
+}
+.page__content :not(pre) > code {
+    font-size: 0.96em !important;
+}
+</style>
+
+
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
