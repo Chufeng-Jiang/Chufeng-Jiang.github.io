@@ -98,7 +98,7 @@ exclude:
 keep_files:
   - .git
   - .svn
- - _pages/old
+  - _pages/old
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
