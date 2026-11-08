@@ -491,15 +491,11 @@ $$
 89.6 \times 10^9\ \text{B/s}
 \times
 85 \times 10^{-9}\ \text{s}
-$$
-
-$$
 =
-\boxed{7616\ \text{bytes}}
+\boxed{7616} \text{    bytes}
 $$
 
 **Step 2: Convert to cache lines.**
-
 $$
 \text{Required Cache Lines}
 =
@@ -540,7 +536,7 @@ Each request depends on the result of the previous request.
 
 Example:
 
-```c
+```c++
 node = node->next;
 node = node->next;
 node = node->next;
@@ -722,11 +718,7 @@ $$
 \text{Bytes}
 =
 3\times1024^2\times4
-$$
-
-$$
-=
-12,582,912\ \text{bytes}
+=12,582,912  \text{   bytes}
 $$
 
 **Step 3: Calculate arithmetic intensity.**
@@ -742,9 +734,7 @@ AI\approx170.7\ \text{FLOP/Byte}
 }
 $$
 
-This is much higher than vector addition.
-
-Matrix multiplication offers substantial data reuse because the same input elements participate in many arithmetic operations.
+This is much higher than vector addition. Matrix multiplication offers substantial data reuse because the same input elements participate in many arithmetic operations.
 
 **Important:** This is an idealized arithmetic intensity assuming effective data reuse. A poorly implemented matrix multiplication may transfer substantially more data.
 
@@ -919,7 +909,7 @@ Common strategies include:
 
 Without fusion:
 
-```text
+```c++
 Kernel A
     ↓
 Write intermediate result to global memory
@@ -931,7 +921,7 @@ Read intermediate result from global memory
 
 With fusion:
 
-```text
+```C++
 Fused Kernel
     ↓
 Reuse intermediate values in registers/shared memory
@@ -953,7 +943,7 @@ When reading the implementation of a PyTorch or vLLM operator, begin with **inpu
 
 **Example: vLLM-style CUDA activation kernel (excerpt)**
 
-```cpp
+```c++
 template <typename scalar_t, typename packed_t,
           scalar_t (*ACT_FN)(const scalar_t&, const float),
           packed_t (*PACKED_ACT_FN)(const packed_t&, const float),
@@ -1149,7 +1139,7 @@ if constexpr (HAS_CLAMP) {
 
 **Conceptual build pipeline:**
 
-```text
+```c++
 Headers (.h) + implementation (.cpp / .cu)
                   |
              Compilation
@@ -1170,7 +1160,7 @@ Headers (.h) + implementation (.cpp / .cu)
 
 **CMake example from the lesson:**
 
-```cmake
+```c++
 add_library(_C SHARED ${VLLM_EXT_SRC})
 target_include_directories(_C PRIVATE csrc)
 target_link_libraries(_C PRIVATE ${TORCH_LIBRARIES} CUDA::cudart)
@@ -1230,7 +1220,7 @@ TORCH_LIBRARY_FRAGMENT(CONCAT(TORCH_EXTENSION_NAME, _custom_ar), custom_ar) {
 
 **Conceptual Python-to-GPU execution path** (actual paths differ by operator/version):
 
-```text
+```c++
 Python API
     -> Binding / registered operator
     -> PyTorch Dispatcher
