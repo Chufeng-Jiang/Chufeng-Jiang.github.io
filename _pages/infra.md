@@ -5,7 +5,7 @@ title: "AI Infra Review"
 
 author_profile: true
 redirect_from: 
-  - /about
+  - /
 ---
 {% include_relative subnav.md %}
 {% if site.google_scholar_stats_use_cdn %}
@@ -20,10 +20,6 @@ redirect_from:
 
 
 # System Design
-
-<!-- <div style="font-size: 28px; font-weight: bold;">
-  <a href="https://www.linkedin.com/pulse/places-my-heart-acknowledgements-28th-aug-2024-chufeng-beza-jiang-ummse/" style="font-size: 16px; font-weight: bold;">PLACES IN MY HEART - ACKNOWLEDGEMENTS (28th Aug, 2024)</a>
-</div> -->
 
 TO DO
 
