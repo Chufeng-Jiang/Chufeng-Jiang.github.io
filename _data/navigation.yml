@@ -29,3 +29,6 @@ main:
     
   - title: "Ashes of Time"
     url: "/movie/" 
+
+  - title: "AI Infra Review"
+    url: "/infra/"
