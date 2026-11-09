@@ -39,6 +39,9 @@ author_profile: true
 
 
 # Fundamental
+
+Code and Markdown: [https://github.com/Chufeng-Jiang/AI_Infra/tree/main/fundamental](https://github.com/Chufeng-Jiang/AI_Infra/tree/main/fundamental)
+
 {: .no_toc }
 
 ## Table of Contents
@@ -1020,7 +1023,6 @@ void rms_norm(torch::Tensor& out, torch::Tensor& input,
               double epsilon);
 ```
 
-- `void`: does not return a value through the function's return expression.
 - `torch::Tensor& out`: reference to an existing Tensor object. The function may write to it, but examine the body to confirm behavior.
 - `double epsilon`: scalar passed by value.
 - `std::optional<torch::Tensor>`: the Tensor argument may be present or absent. An absent Tensor is not the same as a zero-element Tensor.
@@ -1119,7 +1121,7 @@ $$
 
 **Tensor-specific note:** `tensor.data_ptr()` provides access to a data address, but that raw pointer does not independently extend the Tensor storage lifetime. Check whether the data is on CPU or GPU and keep the owner valid.
 
-**Exam takeaway:** `unique_ptr` and `shared_ptr` differ in ownership policy, not the amount of memory required by the array they manage.
+**Takeaway:** `unique_ptr` and `shared_ptr` differ in ownership policy, not the amount of memory required by the array they manage.
 
 ---
 
@@ -1188,7 +1190,7 @@ target_link_libraries(_C PRIVATE ${TORCH_LIBRARIES} CUDA::cudart)
 - **ABI (Application Binary Interface)** describes binary-level calling and data conventions. Build-time and runtime Python, framework, and compiler compatibility may matter.
 - Template definitions normally must be visible at the instantiation point, but explicit instantiation is another valid organization strategy.
 
-**Exam takeaway:** Locate whether the failure occurs during compilation, linking, or import before changing build settings.
+**Takeaway:** Locate whether the failure occurs during compilation, linking, or import before changing build settings.
 
 ---
 
@@ -1218,6 +1220,10 @@ print(example.add(1, 2))  # 3
 - `PYBIND11_MODULE(example, m)` defines the module's Python import name.
 - `m.def("add", &add, ...)` connects the exported Python name to the C++ function.
 
+
+
+![image-20261108213923232](F:\GitHub\Chufeng-Jiang.github.io\_pages\fundamental.assets\image-20261108213923232.png)
+
 **B. PyTorch operator registration (course excerpt)**
 
 ```cpp
@@ -1243,7 +1249,9 @@ Python API
     -> CUDA kernel running on GPU SMs
 ```
 
-**Exam takeaway:** To follow a Python operator into native code, identify the current layer (API, binding, dispatcher, C++ implementation, GPU kernel) and what it is responsible for.
+![image-20261108220331314](F:\GitHub\Chufeng-Jiang.github.io\_pages\fundamental.assets\image-20261108220331314.png)
+
+**Takeaway:** To follow a Python operator into native code, identify the current layer (API, binding, dispatcher, C++ implementation, GPU kernel) and what it is responsible for.
 
 ---
 
