@@ -7,7 +7,7 @@
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="https://chufeng-jiang.github.io/infra/" style="text-decoration: none;">⚔️</a></li>
 			<li class="masthead__menu-item"><a href="https://chufeng-jiang.github.io/infra/fundamental/">Fundamental</a></li>
 			<li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"></a></li>
-	        <li class="masthead__menu-item"><a href="https://chufeng-jiang.github.io/infra/Pytorch_and_DeepLearning/">PyTorch and Deep Learning</a></li>
+	        <li class="masthead__menu-item"><a href="https://chufeng-jiang.github.io/infra/Pytorch_and_DeepLearning/">PyTorch and DL</a></li>
 			<li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"></a></li>
 	        <li class="masthead__menu-item"><a href="https://chufeng-jiang.github.io/infra/Transforme_and_LLM_Architecture/">TO DO2</a></li>
 			<li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"></a></li>

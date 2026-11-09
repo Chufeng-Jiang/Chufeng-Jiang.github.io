@@ -1,7 +1,7 @@
 ---
 
-permalink: /infra/fundamental/
-title: "Fundamentals"
+permalink: /infra/Pytorch_and_DeepLearning/
+title: "Pytorch and DL"
 
 author_profile: true
 
@@ -26,7 +26,6 @@ author_profile: true
 </style>
 
 
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -38,7 +37,7 @@ author_profile: true
 
 
 
-# Pytorch_and_DeepLearning
+# Pytorch and DL
 {: .no_toc }
 
 ## Table of Contents
