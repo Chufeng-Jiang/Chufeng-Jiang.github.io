@@ -48,8 +48,6 @@ author_profile: true
 {:toc}
 ## 1. Tensors and Memory Layout: Shape, Stride, View vs. Copy
 
-*Source: PDF pp. 4–14.*
-
 ### 1.1. A tensor consists of storage and metadata
 
 A dense strided tensor does not have to own a newly allocated, contiguous array. It references **storage**, together with metadata specifying how to interpret it:
@@ -165,8 +163,6 @@ Suppose a transposed FP32 view has stride `4096` along the axis being traversed.
 ---
 
 ## 2. Broadcasting: Shape Semantics, Zero Strides, and Hidden Memory Growth
-
-*Source: PDF pp. 15–25.*
 
 ### 2.1. Broadcasting rules
 
@@ -374,8 +370,6 @@ For GPT-2-small-like values $s=1024$, $b=8$, $h=768$, $a=12$, $L=12$, the PDF es
 
 ---
 ## 4. `nn.Module`, Parameters, Buffers, and Checkpoints
-
-*Source: PDF pp. 38–49.*
 
 ### 4.1. Forward execution is not the same as parameter registration
 
