@@ -1221,8 +1221,9 @@ print(example.add(1, 2))  # 3
 - `m.def("add", &add, ...)` connects the exported Python name to the C++ function.
 
 
-
-![image-20261108213923232](F:\GitHub\Chufeng-Jiang.github.io\_pages\fundamental.assets\image-20261108213923232.png)
+<img src="/fundamental.assets/20261108213923232.png"
+     alt="image-20261108220331314"
+     style="max-width: 100%; height: auto;">
 
 **B. PyTorch operator registration (course excerpt)**
 
@@ -1249,7 +1250,11 @@ Python API
     -> CUDA kernel running on GPU SMs
 ```
 
-![image-20261108220331314](F:\GitHub\Chufeng-Jiang.github.io\_pages\fundamental.assets\image-20261108220331314.png)
+
+<img src="/fundamental.assets/image-20261108220331314.png"
+     alt="image-20261108220331314"
+     style="max-width: 100%; height: auto;">
+
 
 **Takeaway:** To follow a Python operator into native code, identify the current layer (API, binding, dispatcher, C++ implementation, GPU kernel) and what it is responsible for.
 
