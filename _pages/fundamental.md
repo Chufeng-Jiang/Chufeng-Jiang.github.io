@@ -1220,10 +1220,7 @@ print(example.add(1, 2))  # 3
 - `PYBIND11_MODULE(example, m)` defines the module's Python import name.
 - `m.def("add", &add, ...)` connects the exported Python name to the C++ function.
 
-
-<img src="/fundamental.assets/20261108213923232.png"
-     alt="image-20261108220331314"
-     style="max-width: 100%; height: auto;">
+![image-20261108213923232](.\fundamental.assets\image-20261108213923232.png)
 
 **B. PyTorch operator registration (course excerpt)**
 
@@ -1251,9 +1248,7 @@ Python API
 ```
 
 
-<img src="/fundamental.assets/image-20261108220331314.png"
-     alt="image-20261108220331314"
-     style="max-width: 100%; height: auto;">
+![image-20261108220331314](.\fundamental.assets\image-20261108220331314.png)
 
 
 **Takeaway:** To follow a Python operator into native code, identify the current layer (API, binding, dispatcher, C++ implementation, GPU kernel) and what it is responsible for.
