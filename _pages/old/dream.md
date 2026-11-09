@@ -36,7 +36,7 @@ At the University of Birmingham's Dubai campus, I was fortunate to have Dr. Mian
 
 <div style="text-align: center; font-family: 'Century Schoolbook'; color: rgb(112, 128, 144);">     <i>Dr. Mian and Me, 2021</i> </div>
 
-<br>Unfortunately, I was denied a U.S. F-1 visa twice at the beginning of 2023. During this time, I stayed home and co-founded an IT consulting business with two partners. However, as time passed, I realized I still deeply wanted to experience life in the U.S. Determined, I applied for an MBA program at San Francisco Bay University. The university offered me a full scholarship and an additional eight-month housing scholarship. With this generous support, I was finally able to secure my visa.
+<br>Unfortunately, I was denied a U.S. F-1 visa twice at the beginning of 2023. During this time, I stayed home and co-founded an IT consulting business with two partners. However, as time passed, I realized I still deeply wanted to experience life in the U.S. Determined, I applied for an MBA program at San Francisco Bay University. The university offered me a full scholarship and an additional eight-month housing scholarship. With this generous support, I was finally able to secure my visa. 
 
 I moved to Silicon Valley to pursue my MBA studies. The students there were incredibly supportive, and we often collaborated on business simulations to learn about operations, economics, and strategy. 
 
